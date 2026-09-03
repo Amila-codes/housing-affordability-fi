@@ -1,0 +1,1727 @@
+﻿"13mu -- Prices per square meter of old dwellings in housing companies and numbers of transactions by postal code area, yearly, 2009-2025"
+
+"Postal code","Price per square meter (EUR/m2) 2021 Blocks of flats, one-room flat","Price per square meter (EUR/m2) 2021 Blocks of flats, two-room flat","Price per square meter (EUR/m2) 2021 Blocks of flats, three-room flat+","Number of sales, asset transfer tax data starting from 2020 2021 Blocks of flats, one-room flat","Number of sales, asset transfer tax data starting from 2020 2021 Blocks of flats, two-room flat","Number of sales, asset transfer tax data starting from 2020 2021 Blocks of flats, three-room flat+"
+"00100  Helsinki keskusta - Etu-Töölö (Helsinki)",9002,8094,8090,160,259,250
+"00120  Punavuori - Bulevardi (Helsinki)",9460,8683,8908,70,105,103
+"00130  Kaartinkaupunki (Helsinki)",9303,9480,10024,14,22,21
+"00140  Kaivopuisto - Ullanlinna (Helsinki)",9470,9311,9945,66,102,84
+"00150  Punavuori - Eira - Hernesaari (Helsinki)",9175,8715,10318,144,120,79
+"00160  Katajanokka (Helsinki)",8723,8112,8143,29,52,62
+"00170  Kruununhaka (Helsinki)",8481,7965,7951,57,71,98
+"00180  Kamppi - Ruoholahti (Helsinki)",9064,7877,7759,123,126,124
+"00190  Suomenlinna (Helsinki)",.,.,.,.,.,.
+"00200  Pohjois-Lauttasaari (Helsinki)",7809,6901,6973,95,206,189
+"00210  Vattuniemi (Helsinki)",7457,6918,7087,39,105,110
+"00220  Jätkäsaari (Helsinki)",...,8179,8198,7,21,53
+"00240  Länsi-Pasila (Helsinki)",6575,5372,5616,18,46,35
+"00250  Taka-Töölö (Helsinki)",7959,7117,7021,104,192,110
+"00260  Keski-Töölö (Helsinki)",8331,7990,7497,45,61,57
+"00270  Pohjois-Meilahti (Helsinki)",8030,6800,6286,35,105,71
+"00280  Ruskeasuo (Helsinki)",6796,6692,6255,9,38,28
+"00290  Meilahden sairaala-alue (Helsinki)",.,.,.,.,.,.
+"00300  Pikku Huopalahti (Helsinki)",...,5631,5354,6,36,19
+"00310  Kivihaka (Helsinki)",...,4921,4663,2,12,13
+"00320  Etelä-Haaga (Helsinki)",6796,5681,5425,106,161,100
+"00330  Munkkiniemi (Helsinki)",7280,6948,6726,32,70,117
+"00340  Kuusisaari - Lehtisaari (Helsinki)",...,4483,4834,2,13,27
+"00350  Munkkivuori - Niemenmäki (Helsinki)",6365,5426,5252,53,77,76
+"00360  Pajamäki (Helsinki)",5820,4628,4815,10,33,13
+"00370  Reimarla (Helsinki)",4527,3641,3137,14,34,34
+"00380  Pitäjänmäen yritysalue (Helsinki)",5526,5767,5229,10,21,17
+"00390  Konala (Helsinki)",4946,3829,3676,27,50,45
+"00400  Pohjois-Haaga (Helsinki)",6289,4934,4236,37,89,108
+"00410  Malminkartano (Helsinki)",4212,3304,2601,16,40,40
+"00420  Kannelmäki (Helsinki)",4682,3680,3152,43,91,80
+"00430  Maununneva - Kuninkaantammi (Helsinki)",...,4370,4236,2,15,18
+"00440  Lassila (Helsinki)",4775,4154,3884,26,58,54
+"00500  Sörnäinen - Harju (Helsinki)",7341,6559,5899,278,171,33
+"00510  Alppila - Vallila (Helsinki)",7260,6628,6541,220,134,54
+"00520  Itä- ja Keski-Pasila (Helsinki)",7115,6194,5622,41,78,109
+"00530  Kallio (Helsinki)",7406,6613,6383,299,273,89
+"00540  Kalasatama - Sompasaari (Helsinki)",...,8344,7892,6,21,19
+"00550  Vallila - Hermanni (Helsinki)",7014,6291,6034,121,104,28
+"00560  Toukola - Kumpula - Vanhakaupunki (Helsinki)",6347,6391,6243,36,89,101
+"00570  Kulosaari (Helsinki)",7212,5933,6372,17,26,30
+"00580  Kalasatama - Kyläsaari (Helsinki)",.,8191,6636,.,8,18
+"00590  Kruunuvuorenranta (Helsinki)",8089,5743,5293,8,14,31
+"00600  Koskela (Helsinki)",...,3305,3370,6,16,13
+"00610  Käpylä (Helsinki)",6292,5950,5874,42,79,61
+"00620  Metsälä - Etelä-Oulunkylä (Helsinki)",...,4564,4398,3,25,27
+"00630  Maunula (Helsinki)",5358,4038,3735,13,54,43
+"00640  Oulunkylä - Patola (Helsinki)",5000,4182,3960,27,69,65
+"00650  Veräjämäki (Helsinki)",.,3909,3645,.,18,8
+"00660  Länsi-Pakila (Helsinki)",...,...,...,4,4,3
+"00670  Paloheinä (Helsinki)",.,.,.,.,.,.
+"00680  Itä-Pakila (Helsinki)",.,...,...,.,2,2
+"00690  Torpparinmäki (Helsinki)",.,.,...,.,.,4
+"00700  Malmi (Helsinki)",4698,3400,3024,23,81,51
+"00710  Pihlajamäki - Viikinmäki (Helsinki)",4040,2969,2710,25,94,85
+"00720  Pukinmäki (Helsinki)",4349,3487,3064,24,51,70
+"00730  Tapanila (Helsinki)",5275,3648,3352,18,41,26
+"00740  Siltamäki (Helsinki)",3670,2295,2307,9,35,52
+"00750  Tapulikaupunki (Helsinki)",...,2730,2233,4,21,24
+"00760  Puistola - Heikinlaakso (Helsinki)",...,...,2306,2,4,6
+"00770  Jakomäki - Alppikylä (Helsinki)",...,1991,1676,1,19,21
+"00780  Tapaninvainio (Helsinki)",3948,3329,2909,7,20,23
+"00790  Viikki (Helsinki)",...,5076,4602,4,42,59
+"00800  Länsi-Herttoniemi (Helsinki)",6234,5392,5233,30,50,29
+"00810  Herttoniemenranta (Helsinki)",5498,5551,5484,78,123,105
+"00820  Roihuvuori (Helsinki)",5941,4557,4185,17,75,69
+"00830  Tammisalo (Helsinki)",...,3505,.,4,9,.
+"00840  Yliskylä (Helsinki)",4675,4110,3608,19,58,89
+"00850  Jollas (Helsinki)",.,.,...,.,.,4
+"00870  Gunillanmäki - Hevossalmi (Helsinki)",...,3081,3173,3,20,31
+"00880  Keski-Herttoniemi - Roihupelto (Helsinki)",.,.,.,.,.,.
+"00890  Östersundom (Helsinki)",.,.,.,.,.,.
+"00900  Puotinharju (Helsinki)",4145,3183,2921,12,42,32
+"00910  Puotila (Helsinki)",4339,3863,3453,54,104,68
+"00920  Myllypuro (Helsinki)",3743,3335,2886,7,52,82
+"00930  Itäkeskus - Marjaniemi (Helsinki)",4216,3119,3197,10,26,23
+"00940  Kontula - Vesala - Kivikko (Helsinki)",3762,2730,2363,13,120,121
+"00950  Vartioharju (Helsinki)",5132,3985,3781,9,20,18
+"00960  Pohjois-Vuosaari (Helsinki)",4029,3096,2734,17,71,44
+"00970  Mellunmäki (Helsinki)",3462,2645,2250,10,79,72
+"00980  Etelä-Vuosaari (Helsinki)",4179,3452,3300,73,129,107
+"00990  Aurinkolahti (Helsinki)",6298,5256,4952,13,77,81
+"01120  Västerskog (Sipoo)",.,...,...,.,1,4
+"01150  Söderkulla (Sipoo)",3105,3114,2666,12,26,11
+"01180  Kalkkiranta (Sipoo)",.,.,.,.,.,.
+"01190  Box (Sipoo)",.,.,.,.,.,.
+"01200  Hakunila (Vantaa)",3038,2344,1956,18,61,51
+"01230  Vaarala (Vantaa)",3384,2799,.,11,11,.
+"01260  Itä-Hakkila (Vantaa)",.,.,.,.,.,.
+"01280  Länsimäki (Vantaa)",2775,2351,2078,14,60,32
+"01300  Tikkurila (Vantaa)",5160,3936,3458,96,158,133
+"01340  Leinelä (Vantaa)",...,4107,3989,2,12,9
+"01350  Hiekkaharju (Vantaa)",4092,3253,2649,26,64,46
+"01360  Koivukylä-Havukoski (Vantaa)",2648,1935,1719,35,97,63
+"01370  Jokiniemi (Vantaa)",...,3682,3113,4,28,27
+"01380  Kuusikko-Hakkila (Vantaa)",.,.,.,.,.,.
+"01390  Ruskeasanta-Ilola (Vantaa)",...,...,...,3,4,5
+"01400  Rekola (Vantaa)",4457,...,3431,25,4,8
+"01420  Päiväkumpu (Vantaa)",.,.,.,.,.,.
+"01450  Korso (Vantaa)",3452,2685,2082,41,72,79
+"01480  Mikkola (Vantaa)",3115,2086,1925,21,39,45
+"01490  Nikinmäki (Vantaa)",...,.,...,1,.,3
+"01510  Kirkonkylä-Veromäki (Vantaa)",4632,4614,3873,11,43,33
+"01520  Tammisto (Vantaa)",...,4400,3902,1,43,61
+"01530  Veromiehenkylä (Vantaa)",.,.,.,.,.,.
+"01600  Myyrmäki (Vantaa)",4108,2974,2412,60,143,169
+"01610  Kaivoksela (Vantaa)",3949,3240,3222,26,79,58
+"01620  Martinlaakso (Vantaa)",3516,2769,2074,22,97,89
+"01630  Hämeenkylä (Vantaa)",...,...,...,1,3,3
+"01640  Hämevaara (Vantaa)",...,...,3551,4,2,9
+"01650  Vapaala (Vantaa)",2784,1705,1575,12,26,14
+"01660  Varisto (Vantaa)",...,...,...,2,3,5
+"01670  Vantaanlaakso (Vantaa)",...,...,2609,3,4,6
+"01680  Askisto (Vantaa)",.,.,.,.,.,.
+"01690  Ylästö (Vantaa)",.,.,.,.,.,.
+"01700  Kivistö (Vantaa)",4941,4287,3867,75,50,36
+"01710  Pähkinärinne (Vantaa)",3620,2713,2179,12,54,52
+"01720  Petikko (Vantaa)",.,.,...,.,.,1
+"01730  Vantaanpuisto (Vantaa)",...,2436,1809,4,11,11
+"01740  Tuupakan teollisuusalue (Vantaa)",.,.,.,.,.,.
+"01750  Keimola (Vantaa)",.,.,.,.,.,.
+"01760  Seutula (Vantaa)",.,.,.,.,.,.
+"01800  Klaukkala Keskus (Nurmijärvi)",3269,2481,2237,67,59,62
+"01820  Haikala (Nurmijärvi)",.,.,...,.,.,3
+"01830  Lepsämä (Nurmijärvi)",.,.,.,.,.,.
+"01840  Klaukkala (Nurmijärvi)",.,...,.,.,4,.
+"01860  Perttula (Nurmijärvi)",.,.,.,.,.,.
+"01900  Nurmijärvi Keskus (Nurmijärvi)",2046,1878,1563,32,71,37
+"01940  Palojoki (Nurmijärvi)",.,.,.,.,.,.
+"02100  Tapiola (Espoo)",6598,6145,5934,23,60,61
+"02110  Otsolahti (Espoo)",6607,5761,5663,18,43,38
+"02120  Länsikorkee-Suvikumpu (Espoo)",7141,5626,5345,11,29,48
+"02130  Pohjois-Tapiola (Espoo)",5845,4805,4778,6,36,37
+"02140  Laajalahti (Espoo)",...,...,3327,2,4,11
+"02150  Otaniemi (Espoo)",...,...,4831,4,3,6
+"02160  Westend (Espoo)",...,5187,5405,2,12,21
+"02170  Haukilahti (Espoo)",6132,4891,4663,36,83,133
+"02180  Mankkaa (Espoo)",...,...,...,1,6,3
+"02200  Niittykumpu (Espoo)",5646,5681,4814,20,84,60
+"02210  Olari (Espoo)",3948,3257,2981,29,88,116
+"02230  Matinkylä (Espoo)",5194,4576,4195,37,171,148
+"02240  Friisilä (Espoo)",...,...,.,1,1,.
+"02250  Henttaa (Espoo)",...,4985,4536,4,68,49
+"02260  Kaitaa (Espoo)",...,3131,3086,2,14,24
+"02270  Finnoo-Eestinmalmi (Espoo)",.,.,.,.,.,.
+"02280  Malminmäki-Eestinlaakso (Espoo)",...,3942,4017,5,9,6
+"02300  Nöykkiönpuro (Espoo)",.,.,.,.,.,.
+"02320  Espoonlahti (Espoo)",4216,3531,2833,40,107,133
+"02330  Saunalahti-Kattilalaakso (Espoo)",5037,4484,4321,34,56,45
+"02340  Latokaski (Espoo)",.,.,.,.,.,.
+"02360  Soukka (Espoo)",4106,3093,2717,14,40,58
+"02380  Suvisaaristo (Espoo)",.,.,.,.,.,.
+"02390  Sarvvik (Kirkkonummi)",...,4134,.,4,8,.
+"02400  Kirkkonummi Keskus (Kirkkonummi)",3446,2882,2396,23,43,43
+"02410  Gesterby (Kirkkonummi)",1486,1169,1126,9,23,9
+"02420  Jorvas (Kirkkonummi)",.,.,.,.,.,.
+"02430  Masala (Kirkkonummi)",...,2507,2666,2,9,12
+"02440  Luoma (Kirkkonummi)",.,.,.,.,.,.
+"02450  Sundsberg (Kirkkonummi)",.,.,.,.,.,.
+"02460  Kantvik (Kirkkonummi)",...,1771,...,3,9,5
+"02480  Porkkala (Kirkkonummi)",.,...,.,.,1,.
+"02490  Pikkala (Siuntio)",...,...,...,1,2,2
+"02510  Oitmäki (Kirkkonummi)",.,.,.,.,.,.
+"02520  Lapinkylä (Kirkkonummi)",.,.,.,.,.,.
+"02540  Kylmälä (Kirkkonummi)",.,.,.,.,.,.
+"02550  Evitskog (Kirkkonummi)",.,.,.,.,.,.
+"02570  Siuntio Kirkonkylä (Siuntio)",.,.,.,.,.,.
+"02580  Siuntio Asemanseutu (Siuntio)",...,...,.,2,1,.
+"02600  Etelä-Leppävaara (Espoo)",4939,4511,4007,35,81,75
+"02610  Kilo (Espoo)",5054,4386,4254,44,26,43
+"02620  Karakallio (Espoo)",...,3355,2910,4,45,67
+"02630  Nihtisilta (Espoo)",...,...,2726,1,5,11
+"02650  Pohjois-Leppävaara (Espoo)",5075,4358,4091,23,110,112
+"02660  Lintuvaara (Espoo)",...,...,...,1,3,4
+"02680  Uusmäki (Espoo)",...,4805,4816,1,12,10
+"02700  Kauniainen (Kauniainen)",5393,4559,4592,8,32,50
+"02710  Viherlaakso (Espoo)",3900,2905,2695,11,38,51
+"02720  Lähderanta (Espoo)",3320,3591,2808,10,16,18
+"02730  Jupperi (Espoo)",.,...,...,.,2,3
+"02740  Bemböle-Pakankylä (Espoo)",.,.,.,.,.,.
+"02750  Sepänkylä-Kuurinniitty (Espoo)",4485,3858,4052,11,11,7
+"02760  Tuomarila-Suvela (Espoo)",3705,2996,2694,21,108,70
+"02770  Espoon Keskus (Espoo)",4194,3402,2488,11,33,34
+"02780  Kauklahti (Espoo)",4617,3409,2936,23,22,19
+"02810  Gumböle-Karhusuo (Espoo)",.,...,...,.,3,4
+"02820  Nupuri-Nuuksio (Espoo)",.,.,.,.,.,.
+"02860  Siikajärvi (Espoo)",.,.,.,.,.,.
+"02880  Veikkola (Kirkkonummi)",.,...,.,.,1,.
+"02920  Niipperi (Espoo)",.,.,.,.,.,.
+"02940  Lippajärvi-Järvenperä (Espoo)",4094,3299,2820,9,10,23
+"02970  Kalajärvi (Espoo)",.,...,...,.,1,1
+"03100  Nummela (Vihti)",2489,2133,2233,18,62,52
+"03150  Huhmari (Vihti)",.,.,.,.,.,.
+"03250  Ojakkala (Vihti)",.,...,.,.,3,.
+"03300  Otalampi (Vihti)",.,.,.,.,.,.
+"03320  Selki (Vihti)",.,.,.,.,.,.
+"03400  Vihti Kirkonkylä (Vihti)",1844,1232,1548,7,9,8
+"03600  Karkkila Keskus (Karkkila)",1379,1217,1084,9,24,16
+"03620  Polari (Karkkila)",.,...,...,.,2,1
+"03710  Uusitalo (Karkkila)",.,.,.,.,.,.
+"03810  Ikkala (Lohja)",.,.,.,.,.,.
+"03850  Pusula (Lohja)",.,...,.,.,2,.
+"04130  Sipoo (Sipoo)",2943,2643,2528,16,43,29
+"04200  Kerava Keskus (Kerava)",2930,2702,2619,28,96,89
+"04220  Ahjo-Kaskela (Kerava)",...,2712,2400,17,50,21
+"04230  Pihkaniitty (Kerava)",2720,2119,1764,8,23,12
+"04240  Talma (Sipoo)",.,.,.,.,.,.
+"04250  Alikerava (Kerava)",3195,2538,2317,16,27,23
+"04260  Savio (Kerava)",3718,2060,1996,20,33,25
+"04300  Hyrylä (Tuusula)",...,2531,2423,9,29,43
+"04310  Tuusula Keskus (Tuusula)",.,...,...,.,2,1
+"04320  Riihikallio (Tuusula)",2820,2096,1774,7,25,27
+"04330  Lahela (Tuusula)",.,...,...,.,2,1
+"04340  Mattila (Tuusula)",...,1525,...,3,11,2
+"04350  Nahkela (Tuusula)",.,.,.,.,.,.
+"04360  Ruotsinkylä-Kiilinmäki (Tuusula)",.,.,.,.,.,.
+"04380  Tuomala (Tuusula)",.,.,.,.,.,.
+"04390  Jäniksenlinna (Tuusula)",.,.,.,.,.,.
+"04400  Loutti (Järvenpää)",3562,2684,2602,54,74,76
+"04410  Järvenpää Keskus (Järvenpää)",3489,2792,2260,32,60,66
+"04420  Kyrölä (Järvenpää)",.,...,...,.,1,2
+"04430  Kinnari-Mikonkorpi (Järvenpää)",...,3285,2423,2,10,11
+"04440  Jamppa (Järvenpää)",1890,1465,...,11,26,5
+"04460  Nummenkylä (Järvenpää)",.,.,.,.,.,.
+"04480  Haarajoki (Järvenpää)",.,.,.,.,.,.
+"04500  Kellokoski (Tuusula)",...,...,...,2,3,4
+"04600  Mäntsälä Keskus (Mäntsälä)",2112,1995,2238,13,38,25
+"04620  Kaunismäki (Mäntsälä)",...,...,...,1,3,1
+"04630  Sääksjärvi (Mäntsälä)",.,.,.,.,.,.
+"04660  Numminen (Mäntsälä)",.,.,.,.,.,.
+"04680  Hirvihaara (Mäntsälä)",.,.,.,.,.,.
+"04840  Hautjärvi (Mäntsälä)",.,.,.,.,.,.
+"04920  Saarentaus (Mäntsälä)",.,.,.,.,.,.
+"04940  Levanto (Mäntsälä)",.,.,.,.,.,.
+"05100  Röykkä (Nurmijärvi)",...,.,.,2,.,.
+"05200  Rajamäki (Nurmijärvi)",1617,1951,...,15,6,5
+"05400  Jokela (Tuusula)",...,2165,1791,4,14,13
+"05430  Nuppulinna (Tuusula)",.,.,.,.,.,.
+"05440  Hyvinkää (Hyvinkää)",.,.,.,.,.,.
+"05450  Nukari (Nurmijärvi)",.,...,...,.,2,1
+"05460  Hakalanmäki-Hakala (Hyvinkää)",.,1667,1428,.,13,9
+"05510  Päivärinta (Hyvinkää)",.,.,.,.,.,.
+"05620  Noppo (Hyvinkää)",.,.,.,.,.,.
+"05720  Kytäjä (Hyvinkää)",.,.,.,.,.,.
+"05800  Hyvinkää Keskus (Hyvinkää)",2254,2127,2042,34,116,69
+"05810  Martti (Hyvinkää)",...,...,...,1,3,2
+"05820  Mustamännistö (Hyvinkää)",1945,1421,1730,8,11,9
+"05830  Kirjavatolppa-Kruununpuisto (Hyvinkää)",2090,2179,1860,24,40,23
+"05840  Hyvinkäänkylä-Vehkoja (Hyvinkää)",...,1448,1191,4,9,8
+"05860  Talvisilta (Hyvinkää)",...,...,...,2,4,4
+"05880  Paavola-Vaivero (Hyvinkää)",1573,1107,1062,7,17,12
+"05900  Vieremä (Hyvinkää)",2123,2009,1617,19,33,40
+"06100  Porvoo Keskus (Porvoo)",3716,2918,2976,68,183,110
+"06150  Kevätkumpu (Porvoo)",2344,1950,1594,16,19,14
+"06200  Porvoo itäinen (Porvoo)",.,.,...,.,.,1
+"06400  Gammelbacka (Porvoo)",...,1648,2414,5,25,32
+"06450  Eestinmäki-Ernestas (Porvoo)",...,2056,1687,2,6,8
+"06500  Saksala-Suomenkylä (Porvoo)",.,.,.,.,.,.
+"06530  Kerkkoo (Porvoo)",.,.,.,.,.,.
+"06650  Hamari (Porvoo)",...,.,.,2,.,.
+"06750  Tolkkinen (Porvoo)",.,.,.,.,.,.
+"06830  Kulloonkylä (Porvoo)",.,.,.,.,.,.
+"06880  Kärrby (Sipoo)",.,.,.,.,.,.
+"06950  Emäsalo (Porvoo)",.,.,.,.,.,.
+"07110  Hinthaara (Porvoo)",.,.,.,.,.,.
+"07150  Laukkoski (Pornainen)",.,.,.,.,.,.
+"07170  Keski-Pornainen (Pornainen)",.,.,.,.,.,.
+"07190  Halkia (Pornainen)",.,.,.,.,.,.
+"07230  Monninkylä (Askola)",.,.,.,.,.,.
+"07280  Ilola (Porvoo)",...,.,.,1,.,.
+"07500  Askola Kirkonkylä (Askola)",.,.,.,.,.,.
+"07510  Vakkola (Askola)",.,.,...,.,.,1
+"07550  Torpinkylä (Pukkila)",.,.,.,.,.,.
+"07560  Pukkila Keskus (Pukkila)",.,...,.,.,1,.
+"07590  Huuvari-Tiilää (Askola)",.,.,.,.,.,.
+"07600  Myrskylä Keskus (Myrskylä)",.,.,.,.,.,.
+"07700  Koskenkylän saha-alue (Loviisa)",...,.,.,1,.,.
+"07750  Isnäs (Loviisa)",.,.,.,.,.,.
+"07800  Lapinjärvi Keskus (Lapinjärvi)",.,.,.,.,.,.
+"07820  Porlammi (Lapinjärvi)",.,.,.,.,.,.
+"07830  Pukaro (Lapinjärvi)",.,.,.,.,.,.
+"07870  Skinnarby (Loviisa)",.,.,.,.,.,.
+"07880  Liljendal Keskus (Loviisa)",.,.,.,.,.,.
+"07890  Mickelspiltom (Loviisa)",.,.,.,.,.,.
+"07900  Loviisa Keskus (Loviisa)",1399,1580,2114,10,18,10
+"07910  Valko (Loviisa)",...,...,...,2,5,4
+"07920  Etelä-Harju (Loviisa)",.,...,...,.,3,5
+"07930  Pernaja Kirkonkylä (Loviisa)",.,.,.,.,.,.
+"07940  Määrlahti (Loviisa)",.,745,...,.,9,3
+"07955  Tesjoki (Loviisa)",.,.,.,.,.,.
+"07960  Ahvenkoski (Loviisa)",.,.,.,.,.,.
+"07970  Ruotsinpyhtää Keskus (Loviisa)",.,.,.,.,.,.
+"07990  Ruotsinkylä-Koskisto (Loviisa)",.,.,.,.,.,.
+"08100  Lohja Keskus (Lohja)",2509,2543,2213,42,92,51
+"08150  Keskilohja (Lohja)",...,2108,...,1,12,3
+"08200  Ojamo (Lohja)",1584,1328,1138,15,81,55
+"08350  Routio (Lohja)",...,1396,1347,4,10,8
+"08450  Hormajärvi (Lohja)",...,...,.,1,1,.
+"08500  Ventelä-Millola (Lohja)",...,1648,...,1,6,4
+"08680  Muijala (Lohja)",...,...,.,3,4,.
+"08700  Virkkala (Lohja)",1335,1074,1028,11,36,31
+"08800  Kirkniemi (Lohja)",.,...,...,.,1,2
+"09120  Karjalohja (Lohja)",...,...,.,1,1,.
+"09220  Sammatti (Lohja)",.,.,.,.,.,.
+"09430  Saukkola (Lohja)",.,.,.,.,.,.
+"09630  Koisjärvi (Lohja)",.,.,.,.,.,.
+"09810  Nummi-Oinola (Lohja)",...,...,.,3,1,.
+"10120  Tähtelä (Ingå)",.,.,.,.,.,.
+"10140  Päivölä (Ingå)",.,.,.,.,.,.
+"10210  Inkoo Keskus (Ingå)",...,1310,...,5,10,4
+"10300  Karjaa Keskus (Raasepori)",1436,1485,1469,12,34,30
+"10320  Bäljars (Raasepori)",...,...,...,1,3,1
+"10330  Pinjainen (Raasepori)",.,.,.,.,.,.
+"10350  Meltolan sairaala-alue (Raasepori)",.,.,.,.,.,.
+"10360  Mustio (Raasepori)",.,.,.,.,.,.
+"10410  Åminnefors (Raasepori)",...,.,.,1,.,.
+"10420  Pohjankuru (Raasepori)",...,1020,...,3,12,4
+"10440  Bollsta (Raasepori)",.,.,.,.,.,.
+"10470  Fiskari (Raasepori)",.,.,.,.,.,.
+"10520  Tenhola Kirkonkylä (Raasepori)",.,.,.,.,.,.
+"10570  Bromarv (Raasepori)",.,.,.,.,.,.
+"10600  Tammisaari Keskus (Raasepori)",1925,2206,2145,20,45,41
+"10620  Tammisaari (Raasepori)",...,...,...,2,2,4
+"10640  Dragsvik (Raasepori)",...,...,...,1,2,3
+"10650  Flyet (Raasepori)",...,1209,1029,3,12,14
+"10660  Trollböle (Raasepori)",...,...,...,2,2,2
+"10680  Skogby (Raasepori)",.,.,.,.,.,.
+"10710  Snappertuna (Raasepori)",.,.,.,.,.,.
+"10820  Lappohja (Hanko)",...,608,...,1,8,3
+"10900  Hanko Keskus (Hanko)",1927,1903,1737,25,74,55
+"10940  Hangonkylä (Hanko)",...,...,.,3,1,.
+"10960  Hanko Pohjoinen (Hanko)",...,...,...,1,1,1
+"11100  Riihimäki Keskus (Riihimäki)",1948,1675,1574,47,94,78
+"11120  Pohjois-Riihimäki (Riihimäki)",1404,1192,1034,16,29,19
+"11130  Peltosaari-Patastenmäki (Riihimäki)",1514,1787,1567,18,29,25
+"11310  Taka-Kasarmi (Riihimäki)",.,...,...,.,4,5
+"11710  Herajoki (Riihimäki)",.,...,...,.,3,4
+"11910  Lasi-Kumela (Riihimäki)",...,...,...,2,5,2
+"12100  Oitti (Hausjärvi)",.,.,.,.,.,.
+"12130  Mommila (Hausjärvi)",.,.,.,.,.,.
+"12240  Hikiä (Hausjärvi)",.,.,...,.,.,1
+"12310  Ryttylä (Hausjärvi)",.,.,.,.,.,.
+"12380  Leppäkoski (Janakkala)",.,...,.,.,1,.
+"12400  Tervakoski (Janakkala)",845,772,...,9,11,5
+"12520  Kormu (Loppi)",.,.,.,.,.,.
+"12540  Launonen (Loppi)",.,.,.,.,.,.
+"12600  Läyliäinen (Loppi)",.,...,.,.,1,.
+"12700  Loppi kk (Loppi)",.,1110,...,.,13,3
+"12750  Pilpala (Loppi)",.,.,.,.,.,.
+"13100  Hämeenlinna Keskus (Hämeenlinna)",2590,2248,2013,82,122,85
+"13110  Kantola (Hämeenlinna)",...,.,.,1,.,.
+"13130  Kauriala (Hämeenlinna)",1897,1921,1587,37,57,34
+"13200  Keinusaari (Hämeenlinna)",2430,2087,2073,11,24,18
+"13210  Hätilä (Hämeenlinna)",1931,1650,1627,33,48,28
+"13220  Sairio (Hämeenlinna)",...,2117,3015,1,7,6
+"13250  Katuma (Hämeenlinna)",...,1398,1030,2,11,6
+"13270  Ruununmylly (Hämeenlinna)",.,...,...,.,1,1
+"13300  Käikälä (Hämeenlinna)",.,.,.,.,.,.
+"13330  Harviala (Janakkala)",.,.,.,.,.,.
+"13430  Hattelmala (Hämeenlinna)",.,.,.,.,.,.
+"13500  Jukola (Hämeenlinna)",1523,936,943,9,12,18
+"13600  Ojoinen (Hämeenlinna)",1304,1104,1056,7,14,10
+"13700  Parolannummi (Hattula)",.,...,...,.,1,1
+"13720  Parola (Hattula)",...,...,...,2,1,3
+"13800  Katinala (Hattula)",.,...,.,.,2,.
+"13880  Rahkoila (Hattula)",.,...,...,.,1,1
+"13900  Pekola (Hattula)",.,.,.,.,.,.
+"14200  Turenki (Janakkala)",1397,1267,1075,12,20,11
+"14300  Renko kk (Hämeenlinna)",.,...,.,.,3,.
+"14500  Iittala (Hämeenlinna)",...,...,.,1,3,.
+"14610  Lepaa (Hattula)",.,.,.,.,.,.
+"14680  Alvettula (Hämeenlinna)",.,.,.,.,.,.
+"14700  Hauho kk (Hämeenlinna)",...,...,...,1,6,1
+"14770  Eteläinen (Hämeenlinna)",.,.,.,.,.,.
+"14820  Syrjäntaka (Hämeenlinna)",.,.,.,.,.,.
+"14870  Juttila (Hämeenlinna)",.,.,.,.,.,.
+"14960  Puutikkala (Pälkäne)",.,.,.,.,.,.
+"15100  Lahti Asemanseutu (Lahti)",2410,2250,2188,31,49,26
+"15110  Keski-Lahti (Lahti)",2888,2502,2446,41,43,56
+"15140  Kartano-Paavola (Lahti)",2653,2445,2539,108,204,146
+"15150  Möysä (Lahti)",1921,1588,1509,27,58,27
+"15160  Kolava (Lahti)",.,.,...,.,.,1
+"15170  Tenava-Tonttila (Lahti)",1308,1034,1076,18,35,43
+"15200  Kiveriö (Lahti)",1534,1223,1124,35,41,13
+"15210  Kivistönmäki (Lahti)",2486,1430,1421,26,56,43
+"15230  Kytölä (Lahti)",...,1212,...,1,6,5
+"15240  Mukkula (Lahti)",1441,1108,1079,59,56,45
+"15270  Kukkila (Hollola)",.,.,.,.,.,.
+"15300  Myllypohja-Koiskala (Lahti)",.,...,...,.,5,4
+"15320  Ahtiala (Lahti)",1299,1427,...,35,12,2
+"15340  Kunnas-Hiekkanummi (Lahti)",.,.,.,.,.,.
+"15500  Liipola (Lahti)",1206,924,871,8,52,34
+"15520  Saksala (Lahti)",1557,1276,1364,10,29,8
+"15540  Villähde (Lahti)",...,...,.,1,3,.
+"15550  Rakokivi (Lahti)",...,855,...,5,11,3
+"15560  Nastola kk (Lahti)",1385,789,990,18,28,14
+"15610  Laune-Nikkilä (Lahti)",...,2340,...,3,9,3
+"15680  Renkomäki-Ämmälä (Lahti)",.,.,.,.,.,.
+"15700  Hennala-Jokimaa (Lahti)",2047,1848,1869,9,46,34
+"15800  Kärpänen (Lahti)",1724,1514,1324,18,14,22
+"15810  Kasakkamäki (Lahti)",...,.,...,1,.,1
+"15830  Metsäkangas (Lahti)",972,830,1012,8,33,29
+"15840  Riihelä (Lahti)",...,...,...,1,2,1
+"15850  Likolampi (Lahti)",.,.,.,.,.,.
+"15860  Kartano (Hollola)",...,1087,949,6,15,23
+"15870  Salpakangas (Hollola)",...,1418,1650,1,14,12
+"15880  Soramäki (Hollola)",...,1383,...,2,8,6
+"15900  Jalkaranta (Lahti)",.,...,...,.,3,6
+"15950  Kiikkula (Lahti)",1661,1385,1523,7,28,28
+"15980  Messilä (Hollola)",.,.,.,.,.,.
+"16100  Uusikylä (Lahti)",.,...,...,.,1,3
+"16200  Artjärvi Keskus (Orimattila)",.,.,.,.,.,.
+"16260  Hietana (Orimattila)",.,.,.,.,.,.
+"16300  Orimattila Keskus (Orimattila)",1130,1091,1129,7,15,20
+"16320  Pennala (Orimattila)",.,.,.,.,.,.
+"16500  Herrala (Hollola)",...,...,.,1,1,.
+"16600  Järvelä (Kärkölä)",...,.,...,1,.,1
+"16610  Kärkölä kk (Kärkölä)",.,.,.,.,.,.
+"16670  Lappila (Kärkölä)",.,.,.,.,.,.
+"16710  Hollola kk (Hollola)",.,.,.,.,.,.
+"16800  Hämeenkoski (Hollola)",.,.,.,.,.,.
+"16900  Lammi kk (Hämeenlinna)",...,...,...,3,2,3
+"17110  Sipilä (Hollola)",.,.,.,.,.,.
+"17130  Vesivehmaa (Asikkala)",.,.,.,.,.,.
+"17200  Vääksy Keskus (Asikkala)",1359,1113,...,11,15,3
+"17240  Kalkkinen (Asikkala)",.,.,.,.,.,.
+"17500  Padasjoki Keskus (Padasjoki)",...,...,...,3,3,1
+"17610  Auttoinen (Padasjoki)",.,.,.,.,.,.
+"17800  Kuhmoinen Keskus (Kuhmoinen)",...,746,...,5,6,2
+"18100  Heinola Keskus (Heinola)",1143,1265,1515,24,42,41
+"18120  Reumasairaala-alue (Heinola)",.,.,.,.,.,.
+"18130  Tommola-Sahanniemi (Heinola)",...,751,606,10,17,8
+"18150  Jyränkö (Heinola)",...,468,...,4,10,5
+"18200  Kaakonlampi-Pyhätön (Heinola)",...,529,567,6,14,8
+"18300  Heinola kk (Heinola)",...,...,...,4,3,4
+"18600  Myllyoja (Heinola)",.,.,.,.,.,.
+"19110  Vierumäki taajama (Heinola)",.,.,.,.,.,.
+"19120  Vierumäki urheiluopisto (Heinola)",.,.,.,.,.,.
+"19160  Huutotöyry (Iitti)",.,.,.,.,.,.
+"19210  Lusi (Heinola)",.,.,.,.,.,.
+"19260  Paaso-Syrjäkoski (Heinola)",.,.,.,.,.,.
+"19410  Kuortti (Pertunmaa)",.,.,.,.,.,.
+"19420  Mansikkamäki (Pertunmaa)",.,.,.,.,.,.
+"19430  Pertunmaa Keskus (Pertunmaa)",.,.,.,.,.,.
+"19470  Lihavanpää-Hartosenpää (Pertunmaa)",.,.,.,.,.,.
+"19540  Koitti-Lepsala (Hartola)",.,.,.,.,.,.
+"19600  Hartola Keskus (Hartola)",...,...,...,3,2,1
+"19650  Joutsa Keskus (Joutsa)",748,637,...,7,9,4
+"19670  Mieskonmäki (Joutsa)",.,.,.,.,.,.
+"19700  Sysmä Keskus (Sysmä)",...,...,...,3,8,1
+"19910  Tammijärvi (Luhanka)",.,.,.,.,.,.
+"19950  Luhanka (Luhanka)",.,.,.,.,.,.
+"20100  Turku Keskus (Turku)",4541,3737,3582,225,350,235
+"20200  Iso-Heikkilä (Turku)",3231,2800,2824,29,47,23
+"20210  Pahaniemi (Turku)",1946,1220,1152,9,27,38
+"20240  Pansio-Perno (Turku)",1573,1151,1075,40,64,29
+"20250  Pitkämäki-Muhkuri (Turku)",...,...,.,1,1,.
+"20300  Pohjola-Kastu (Turku)",4091,3136,2745,31,51,38
+"20320  Kuninkoja-Mälikkälä (Turku)",2541,2056,1889,35,124,128
+"20360  Runosmäki-Kärsämäki (Turku)",2231,1431,1351,20,98,70
+"20380  Räntämäki-Saramäki (Turku)",.,.,.,.,.,.
+"20400  Moisio (Turku)",.,.,.,.,.,.
+"20460  Jäkärlä (Turku)",...,1016,944,2,7,12
+"20500  Vesilinna (Turku)",4661,3656,3330,51,73,58
+"20520  Kupittaa (Turku)",5307,4420,3970,31,40,21
+"20540  Nummi-Ylioppilaskylä (Turku)",4069,2703,2011,35,87,79
+"20610  Varissuo (Turku)",2068,1361,1266,24,94,72
+"20660  Littoinen (Kaarina)",...,...,...,3,2,3
+"20700  Vartiovuori-Samppalinna (Turku)",4160,3625,3492,41,48,49
+"20720  Vasaramäki (Turku)",3308,2734,2256,27,67,56
+"20730  Skanssi (Turku)",...,...,3324,4,9,6
+"20740  Ilpoinen-Harittu (Turku)",...,1955,1784,10,58,59
+"20750  Huhkola-Lauste-Vaala (Turku)",1441,1103,960,9,20,33
+"20760  Piispanristi (Kaarina)",2712,2480,1736,19,43,28
+"20780  Kaarina Keskus (Kaarina)",2339,1908,2187,15,76,38
+"20810  Martti-Korppolaismäki (Turku)",4726,3909,3371,61,180,108
+"20880  Uittamo (Turku)",2962,2090,1965,15,29,49
+"20900  Moikoinen-Pikisaari (Turku)",.,...,...,.,2,2
+"20960  Kakskerta (Turku)",.,.,.,.,.,.
+"21100  Naantali Keskus (Naantali)",2717,2349,2353,12,72,41
+"21110  Taimo-Nuhjala-Lietsala (Naantali)",...,1491,1442,3,19,14
+"21120  Viherjäinen (Raisio)",...,.,...,1,.,3
+"21130  Poikko (Naantali)",.,.,.,.,.,.
+"21140  Rymättylä Keskus (Naantali)",.,...,...,.,4,4
+"21150  Röölä (Naantali)",.,.,.,.,.,.
+"21160  Merimasku (Naantali)",.,.,.,.,.,.
+"21195  Velkua (Naantali)",.,.,.,.,.,.
+"21200  Raisio Keskus (Raisio)",2197,1786,1732,53,137,96
+"21210  Hakinmäki (Raisio)",...,1222,1051,1,11,9
+"21220  Somersoja (Raisio)",.,...,...,.,3,2
+"21230  Lemu (Masku)",.,.,.,.,.,.
+"21240  Askainen Keskus (Masku)",.,.,.,.,.,.
+"21250  Masku (Masku)",...,...,...,2,5,2
+"21260  Ihala (Raisio)",...,1154,...,2,6,5
+"21270  Nousiainen (Nousiainen)",...,...,1192,4,2,6
+"21280  Kuloinen (Raisio)",.,...,...,.,4,3
+"21290  Rusko (Rusko)",...,.,...,1,.,1
+"21310  Vahto (Rusko)",.,.,.,.,.,.
+"21330  Paattinen (Turku)",.,.,.,.,.,.
+"21350  Ilmarinen (Lieto)",.,.,.,.,.,.
+"21360  Lieto Asemanseutu (Lieto)",...,.,.,1,.,.
+"21370  Aura kk. (Aura)",.,.,.,.,.,.
+"21380  Aura Keskus (Aura)",.,...,...,.,2,3
+"21410  Vanhalinna (Lieto)",.,.,.,.,.,.
+"21420  Lieto Keskus (Lieto)",2520,2212,1965,14,28,27
+"21430  Yliskulma (Lieto)",...,.,.,1,.,.
+"21450  Tarvasjoki Keskus (Lieto)",.,...,.,.,2,.
+"21490  Marttila (Marttila)",...,...,...,1,1,1
+"21500  Piikkiö (Kaarina)",1858,1586,1622,12,14,13
+"21530  Paimio Keskus (Paimio)",1339,1337,1449,20,35,25
+"21540  Preitilä (Paimio)",.,.,.,.,.,.
+"21560  Ollila (Marttila)",.,.,.,.,.,.
+"21570  Sauvo Keskus (Sauvo)",...,.,.,1,.,.
+"21590  Karuna (Sauvo)",.,.,.,.,.,.
+"21600  Parainen Keskus (Pargas)",1412,1448,1514,15,35,38
+"21610  Kirjala (Pargas)",.,.,.,.,.,.
+"21620  Kuusisto (Kaarina)",.,.,.,.,.,.
+"21630  Lielahti (Pargas)",.,.,.,.,.,.
+"21650  Lillandet (Pargas)",.,.,.,.,.,.
+"21660  Nauvo Keskus (Pargas)",...,...,...,1,2,1
+"21710  Korppoo Keskus-Utö (Pargas)",.,...,.,.,1,.
+"21740  Utö (Pargas)",.,.,.,.,.,.
+"21750  Norrskata (Pargas)",.,.,.,.,.,.
+"21760  Houtskär Keskus (Pargas)",.,.,.,.,.,.
+"21770  Mossala (Pargas)",.,.,.,.,.,.
+"21800  Kyrö (Pöytyä)",.,...,.,.,3,.
+"21820  Kumila (Pöytyä)",.,.,.,.,.,.
+"21860  Auvainen (Pöytyä)",.,.,.,.,.,.
+"21870  Riihikoski (Pöytyä)",...,...,.,3,3,.
+"21880  Pöytyä (Pöytyä)",.,.,.,.,.,.
+"21900  Yläne Keskus (Pöytyä)",.,.,.,.,.,.
+"21930  Uusikartano (Pöytyä)",.,.,.,.,.,.
+"23100  Mynämäki Keskus (Mynämäki)",...,1165,...,4,10,3
+"23120  Mietoinen Keskus (Mynämäki)",.,.,.,.,.,.
+"23140  Hietamäki (Mynämäki)",.,.,.,.,.,.
+"23200  Vinkkilä (Vehmaa)",...,...,.,1,1,.
+"23260  Rautila (Vehmaa)",.,...,...,.,1,2
+"23310  Taivassalo (Taivassalo)",...,...,.,1,4,.
+"23360  Kustavi (Kustavi)",.,.,...,.,.,1
+"23450  Lokalahti (Uusikaupunki)",.,.,.,.,.,.
+"23500  Uusikaupunki Keskus (Uusikaupunki)",1209,1257,1140,32,68,62
+"23600  Kalanti Keskus (Uusikaupunki)",...,.,...,1,.,1
+"23800  Laitila Keskus (Laitila)",1315,1188,966,10,34,8
+"23930  Pyhämaa (Uusikaupunki)",.,.,.,.,.,.
+"23950  Pyhäranta (Pyhäranta)",.,...,.,.,3,.
+"24100  Salo Keskus (Salo)",1520,1526,1533,54,90,64
+"24130  Ylhäisi (Salo)",...,1023,...,4,6,4
+"24240  Rappula (Salo)",1412,1315,1293,24,31,12
+"24260  Ollikkala (Salo)",1127,705,702,7,9,10
+"24280  Tupuri-Hähkänä (Salo)",.,.,.,.,.,.
+"24800  Halikko Keskus (Salo)",...,1160,971,5,23,16
+"24910  Halikko Asemanseutu (Salo)",.,.,.,.,.,.
+"25110  Kruusila (Salo)",.,.,.,.,.,.
+"25130  Muurla (Salo)",.,.,.,.,.,.
+"25160  Tuohittu (Salo)",.,.,.,.,.,.
+"25190  Inkere (Salo)",.,...,.,.,1,.
+"25210  Vartsala (Salo)",.,.,...,.,.,1
+"25230  Angelniemi (Salo)",.,.,.,.,.,.
+"25240  Hajala (Salo)",.,.,.,.,.,.
+"25250  Märynummi (Salo)",...,...,...,1,1,4
+"25260  Vaskio (Salo)",.,.,.,.,.,.
+"25320  Raatala (Salo)",.,.,.,.,.,.
+"25330  Kuusjoki Keskus (Salo)",.,.,.,.,.,.
+"25340  Kanunki (Salo)",.,.,.,.,.,.
+"25360  Pertteli Keskus (Salo)",.,...,.,.,1,.
+"25370  Hiisi (Salo)",.,.,.,.,.,.
+"25380  Rekijoki (Salo)",.,.,.,.,.,.
+"25390  Kiikala Keskus (Salo)",.,.,.,.,.,.
+"25410  Suomusjärvi Keskus (Salo)",.,.,.,.,.,.
+"25460  Toija (Salo)",.,.,...,.,.,1
+"25470  Kisko kk (Salo)",.,.,.,.,.,.
+"25500  Perniö Keskus (Salo)",...,...,...,6,5,3
+"25520  Perniö Asemanseutu (Salo)",.,.,.,.,.,.
+"25550  Aijala (Salo)",...,...,.,1,4,.
+"25570  Teijo-Mathildedal (Salo)",.,...,.,.,5,.
+"25630  Finby (Salo)",.,.,.,.,.,.
+"25640  Förby (Salo)",.,.,.,.,.,.
+"25650  Strömma (Kimitoön)",.,.,.,.,.,.
+"25660  Mathildedal (Salo)",2481,...,.,6,1,.
+"25700  Kemiö Keskus (Kimitoön)",.,...,...,.,4,3
+"25830  Västanfjärd Keskus (Kimitoön)",...,.,...,2,.,1
+"25860  Björkboda (Kimitoön)",.,.,.,.,.,.
+"25870  Dragsfjärd (Kimitoön)",.,...,.,.,4,.
+"25900  Taalintehdas (Kimitoön)",1061,...,...,10,8,4
+"25960  Högsåra (Kimitoön)",.,.,.,.,.,.
+"26100  Rauma Keskus (Rauma)",1845,1553,1417,64,128,101
+"26200  Merirauma-Kappelinluhta (Rauma)",1340,933,1002,6,14,10
+"26410  Kaaro (Rauma)",.,.,.,.,.,.
+"26510  Uotila (Rauma)",...,...,...,1,1,2
+"26660  Paroalho (Rauma)",1050,1012,885,10,19,14
+"26720  Monnanummi (Rauma)",.,.,.,.,.,.
+"26820  Sampaanala (Rauma)",...,...,...,2,9,2
+"26840  Kortela (Rauma)",.,.,.,.,.,.
+"27100  Eurajoki Keskus (Eurajoki)",.,...,...,.,2,1
+"27150  Lapijoki (Eurajoki)",.,.,.,.,.,.
+"27230  Lappi (Rauma)",...,.,.,1,.,.
+"27310  Kodisjoki (Rauma)",.,.,.,.,.,.
+"27320  Ihode (Pyhäranta)",.,.,.,.,.,.
+"27400  Kiukainen Keskus (Eura)",.,.,.,.,.,.
+"27430  Panelia (Eura)",...,...,.,1,1,.
+"27450  Harola (Eura)",.,.,.,.,.,.
+"27500  Kauttua (Eura)",.,...,...,.,2,2
+"27510  Eura Keskus (Eura)",...,1182,...,2,11,4
+"27600  Hinnerjoki (Eura)",.,.,.,.,.,.
+"27640  Honkilahti kk (Eura)",.,.,.,.,.,.
+"27650  Honkilahti (Eura)",.,.,.,.,.,.
+"27670  Mannila (Eura)",.,.,.,.,.,.
+"27710  Köyliö Keskus (Säkylä)",...,...,.,1,3,.
+"27730  Tuiskula (Säkylä)",.,.,.,.,.,.
+"27750  Yttilä (Säkylä)",.,.,.,.,.,.
+"27800  Säkylä Keskus (Säkylä)",.,877,...,.,8,2
+"27820  Iso-Vimma (Säkylä)",.,...,.,.,2,.
+"27840  Kakkuri (Säkylä)",...,.,...,1,.,1
+"27860  Vuori (Säkylä)",.,.,.,.,.,.
+"27910  Huovinrinne (Säkylä)",.,...,...,.,6,2
+"27920  Otajoki (Säkylä)",.,.,.,.,.,.
+"28100  Pori Keskus (Pori)",2006,1902,1956,93,136,110
+"28120  Käppärä-Isomäki (Pori)",1099,1123,...,8,22,5
+"28130  Impola (Pori)",2477,1498,1603,63,37,48
+"28190  Pormestarinluoto (Pori)",976,687,631,7,18,18
+"28200  Toejoki (Pori)",.,.,.,.,.,.
+"28220  Ruosniemi (Pori)",.,.,.,.,.,.
+"28240  Isojoenranta (Pori)",.,.,.,.,.,.
+"28260  Harjunpää (Ulvila)",.,.,.,.,.,.
+"28300  Kalaholma-Väinölä (Pori)",.,.,.,.,.,.
+"28330  Koivistonluoto (Pori)",625,578,...,6,14,2
+"28360  Vanhakoivisto (Pori)",834,898,889,14,43,40
+"28370  Sampola (Pori)",822,533,...,11,34,4
+"28400  Ulvila Keskus (Ulvila)",...,982,1223,3,9,13
+"28430  Kartano-Harmaalinna (Pori)",.,...,...,.,2,1
+"28450  Vanha-Ulvila (Ulvila)",.,...,...,.,1,2
+"28500  Keskussairaala-alue-Tiilimäki (Pori)",...,...,...,5,4,1
+"28540  Pinomäki (Pori)",.,.,.,.,.,.
+"28600  Vähärauma (Pori)",...,...,...,2,3,5
+"28610  Musa-Tiiliruukki (Pori)",...,...,...,3,3,5
+"28660  Pietniemi-Leppäkorpi (Pori)",.,.,.,.,.,.
+"28760  Kyläsaari (Pori)",.,.,.,.,.,.
+"28800  Pihlava (Pori)",...,...,...,10,20,10
+"28840  Yyteri-Kaanaa (Pori)",...,532,...,1,12,3
+"28880  Mäntyluoto (Pori)",...,570,...,1,8,3
+"28900  Tahkoluoto-Reposaari (Pori)",.,.,.,.,.,.
+"29100  Luvia Keskus (Eurajoki)",.,.,.,.,.,.
+"29200  Harjavalta Keskus (Harjavalta)",...,703,...,6,18,11
+"29250  Nakkila Keskus (Nakkila)",...,...,...,1,6,4
+"29310  Kaasmarkku (Ulvila)",.,.,.,.,.,.
+"29340  Kullaa Keskus (Ulvila)",.,.,.,.,.,.
+"29600  Noormarkku Keskus (Pori)",...,...,...,1,2,1
+"29630  Pomarkku Keskus (Pomarkku)",.,.,.,.,.,.
+"29680  Kairila (Pori)",.,.,.,.,.,.
+"29700  Ahlainen (Pori)",.,.,.,.,.,.
+"29810  Siikainen Keskus (Siikainen)",.,.,.,.,.,.
+"29860  Otamo (Siikainen)",.,.,.,.,.,.
+"29880  Leväsjoki-Saarineva (Siikainen)",.,.,.,.,.,.
+"29900  Merikarvia Keskus-Rannikko (Merikarvia)",...,...,.,2,3,.
+"30100  Forssa Keskus (Forssa)",1220,1127,1142,31,56,33
+"30300  Viksberg (Forssa)",791,678,605,15,29,16
+"30420  Tölö (Forssa)",1078,929,972,8,15,23
+"31130  Koijärvi (Forssa)",.,.,.,.,.,.
+"31160  Nuutajärvi (Urjala)",.,.,.,.,.,.
+"31300  Tammela Keskus (Tammela)",...,...,...,3,3,1
+"31350  Vistinkoski (Tammela)",.,.,.,.,.,.
+"31380  Letku-Torro (Tammela)",.,.,.,.,.,.
+"31400  Somero Keskus (Somero)",751,1115,...,12,13,1
+"31470  Somerniemi (Somero)",.,.,.,.,.,.
+"31500  Koski Tl (Koski Tl)",...,...,...,1,2,1
+"31600  Jokioinen Keskus (Jokioinen)",...,...,...,1,4,1
+"31610  Vaulammi (Jokioinen)",.,.,.,.,.,.
+"31620  Latovainio (Jokioinen)",.,.,.,.,.,.
+"31630  Minkiö (Jokioinen)",.,.,.,.,.,.
+"31640  Humppila Keskus (Humppila)",...,...,...,2,2,2
+"31700  Urjala Asemanseutu-Hanhisuo (Urjala)",.,.,.,.,.,.
+"31720  Urjalankylä-Kehro (Urjala)",.,.,.,.,.,.
+"31760  Urjala Keskus (Urjala)",...,681,...,3,7,2
+"31900  Punkalaidun Keskus (Punkalaidun)",...,...,...,1,1,1
+"32100  Ypäjä Keskus (Ypäjä)",...,...,...,1,1,2
+"32200  Loimaa Keskus (Loimaa)",920,890,1195,19,40,14
+"32210  Loimaa kk (Loimaa)",...,...,...,6,12,4
+"32250  Kojonkulma (Loimaa)",.,.,.,.,.,.
+"32270  Metsämaa-Murto (Loimaa)",.,.,.,.,.,.
+"32300  Mellilä (Loimaa)",.,.,.,.,.,.
+"32410  Niinijoki (Loimaa)",.,.,.,.,.,.
+"32440  Alastaro Keskus (Loimaa)",.,...,.,.,1,.
+"32500  Oripää Keskus (Oripää)",...,...,...,1,1,1
+"32560  Virttaa (Loimaa)",.,.,.,.,.,.
+"32610  Vampula Keskus (Huittinen)",.,.,.,.,.,.
+"32620  Rutava (Huittinen)",.,.,.,.,.,.
+"32700  Huittinen Keskus (Huittinen)",890,835,994,15,32,18
+"32730  Keikyä (Sastamala)",.,.,.,.,.,.
+"32740  Pehula (Sastamala)",.,...,...,.,3,2
+"32800  Kokemäki Keskus (Kokemäki)",...,...,...,1,13,8
+"32810  Peipohja (Kokemäki)",...,...,.,1,4,.
+"32910  Kauvatsa Asemanseutu (Kokemäki)",.,.,.,.,.,.
+"32920  Kauvatsa (Kokemäki)",.,.,.,.,.,.
+"33100  Tampere Keskus (Tampere)",4983,4251,4293,188,272,197
+"33180  Lapinniemi-Käpylä (Tampere)",6935,5530,4908,31,111,56
+"33200  Tampere Keskus Läntinen (Tampere)",5125,4136,4340,50,109,71
+"33210  Itä-Amuri-Tammerkoski (Tampere)",4890,4074,4089,34,62,69
+"33230  Länsi-Amuri (Tampere)",4223,4126,3544,56,92,75
+"33240  Tahmela (Tampere)",3601,3125,...,9,11,3
+"33250  Pispala (Tampere)",3896,3283,4026,25,18,8
+"33270  Epilä (Tampere)",3229,2739,2583,28,105,74
+"33300  Rahola (Tampere)",2530,2231,2317,11,52,28
+"33310  Tesoma (Tampere)",2346,1832,1523,20,49,60
+"33330  Myllypuro-Kalkku (Tampere)",2193,1790,1497,7,20,8
+"33340  Haukiluoma-Ikuri (Tampere)",3122,2042,1424,10,12,13
+"33400  Luoteis-Tampere (Tampere)",4181,3277,2928,35,50,24
+"33410  Lentävänniemi (Tampere)",3361,2400,2057,55,68,52
+"33420  Lamminpää (Tampere)",...,...,.,4,5,.
+"33430  Vuorentausta (Ylöjärvi)",.,.,...,.,.,1
+"33450  Siivikkala (Ylöjärvi)",.,.,.,.,.,.
+"33470  Ylöjärvi Keskus (Ylöjärvi)",2003,2058,1661,9,31,24
+"33480  Manninmäki-Haavisto (Ylöjärvi)",...,2547,...,5,8,5
+"33500  Osmonmäki-Petsamo (Tampere)",4152,3675,3604,74,161,77
+"33520  Keskussairaala-alue-Kauppi (Tampere)",...,2871,2601,4,7,6
+"33530  Kissanmaa (Tampere)",3659,3140,2919,19,54,32
+"33540  Kaleva (Tampere)",4689,3671,3602,74,166,101
+"33560  Takahuhti (Tampere)",3033,2412,2326,19,79,48
+"33580  Atala-Linnainmaa (Tampere)",3698,2655,2465,38,43,28
+"33610  Olkahinen-Tasanne (Tampere)",.,...,.,.,1,.
+"33680  Aitolahti (Tampere)",.,.,.,.,.,.
+"33700  Messukylä (Tampere)",...,...,...,1,3,2
+"33710  Kaukajärvi (Tampere)",3258,2267,2056,34,91,66
+"33720  Hervanta (Tampere)",2949,1897,1733,50,153,146
+"33730  Leinola-Vehmainen (Tampere)",...,...,...,1,4,1
+"33800  Nekala (Tampere)",2333,2901,2941,46,32,15
+"33820  Koivistonkylä (Tampere)",2526,2367,2146,39,44,24
+"33840  Peltolammi (Tampere)",3305,1919,1514,8,49,40
+"33850  Multisilta (Tampere)",2695,1538,1334,12,33,26
+"33870  Vuores (Tampere)",3960,3400,3527,95,43,27
+"33880  Höytämö (Lempäälä)",...,1424,1050,4,19,21
+"33900  Härmälä-Rantaperkiö (Tampere)",4025,3329,3396,91,127,71
+"33920  Toivio (Pirkkala)",.,.,.,.,.,.
+"33950  Killo (Pirkkala)",3152,2310,2297,18,28,44
+"33960  Suuppa (Pirkkala)",2695,2823,2269,17,51,37
+"33980  Pirkkala kk (Pirkkala)",.,.,.,.,.,.
+"34110  Lakiala (Ylöjärvi)",.,.,.,.,.,.
+"34130  Ylinen (Ylöjärvi)",1459,...,...,10,4,3
+"34140  Mutala (Ylöjärvi)",.,.,.,.,.,.
+"34240  Kämmenteisko (Tampere)",.,.,...,.,.,1
+"34260  Terälahti (Tampere)",...,...,.,3,1,.
+"34300  Kuru Keskus (Ylöjärvi)",.,.,.,.,.,.
+"34450  Jäminkipohja (Ruovesi)",.,.,.,.,.,.
+"34600  Ruovesi Keskus-Nenonen (Ruovesi)",...,...,...,3,2,3
+"34800  Virrat Keskus (Virrat)",...,...,...,4,5,9
+"34870  Visuvesi (Ruovesi)",.,.,.,.,.,.
+"34980  Killinkoski (Virrat)",.,.,.,.,.,.
+"35100  Orivesi Asemanseutu (Orivesi)",.,...,.,.,1,.
+"35220  Eräjärvi (Orivesi)",.,.,.,.,.,.
+"35300  Orivesi Keskus (Orivesi)",1152,1181,1073,8,20,13
+"35320  Hirsilä (Orivesi)",.,.,.,.,.,.
+"35400  Länkipohja (Jämsä)",.,...,.,.,2,.
+"35420  Talviainen (Orivesi)",.,.,.,.,.,.
+"35500  Korkeakoski (Juupajoki)",...,...,...,1,1,1
+"35530  Lyly (Juupajoki)",.,.,.,.,.,.
+"35540  Juupajoki (Juupajoki)",.,.,.,.,.,.
+"35600  Halli (Jämsä)",.,.,...,.,.,1
+"35630  Suinula-Valkamanperä (Jämsä)",.,.,.,.,.,.
+"35700  Vilppula Keskus (Mänttä-Vilppula)",...,...,...,4,2,2
+"35800  Mänttä (Mänttä-Vilppula)",...,...,678,8,16,15
+"35820  Asemakulma-Mustalahti (Mänttä-Vilppula)",.,.,.,.,.,.
+"35990  Kolho (Mänttä-Vilppula)",.,...,...,.,1,1
+"36100  Kangasala Asemanseutu (Kangasala)",.,.,.,.,.,.
+"36110  Ruutana (Kangasala)",.,.,.,.,.,.
+"36200  Kangasala Keskus (Kangasala)",2671,2115,1979,40,53,38
+"36220  Suorama (Kangasala)",2661,2054,1553,8,28,37
+"36240  Nattari (Kangasala)",2268,2055,1679,19,38,24
+"36270  Huutijärvi (Kangasala)",.,...,...,.,1,1
+"36280  Pikonlinna (Kangasala)",.,2682,.,.,8,.
+"36420  Sahalahti Keskus (Kangasala)",.,.,.,.,.,.
+"36430  Pakkala (Kangasala)",.,.,.,.,.,.
+"36450  Salmentaka (Pälkäne)",.,.,.,.,.,.
+"36600  Pälkäne Keskus (Pälkäne)",...,...,...,1,6,2
+"36720  Aitoo (Pälkäne)",...,.,.,1,.,.
+"36760  Luopioinen Keskus (Pälkäne)",.,.,.,.,.,.
+"36810  Kuhmalahti Keskus (Kangasala)",.,.,.,.,.,.
+"36840  Kuhmajärvi (Kangasala)",.,.,.,.,.,.
+"36910  Rautajärvi (Pälkäne)",.,.,.,.,.,.
+"36930  Kyynärö (Pälkäne)",.,.,.,.,.,.
+"37100  Nokia Keskus (Nokia)",1952,1852,1740,44,85,53
+"37120  Koskenmäki (Nokia)",1779,1701,2042,17,57,32
+"37130  Alhoniitty (Nokia)",...,...,...,9,29,11
+"37140  Harjuniitty (Nokia)",.,.,.,.,.,.
+"37150  Kankaantaka (Nokia)",...,1596,1335,3,6,10
+"37200  Siuro (Nokia)",...,...,...,2,3,2
+"37240  Linnavuori (Nokia)",...,...,...,3,2,1
+"37370  Narva (Vesilahti)",.,.,.,.,.,.
+"37380  Krääkkiö (Vesilahti)",.,.,.,.,.,.
+"37420  Valkkinen (Vesilahti)",.,.,.,.,.,.
+"37470  Vesilahti Keskus (Vesilahti)",.,.,.,.,.,.
+"37500  Lempäälä Keskus (Lempäälä)",2542,2286,2433,17,43,21
+"37550  Kuivaspää (Lempäälä)",.,...,...,.,2,4
+"37560  Kulju (Lempäälä)",.,...,...,.,3,2
+"37570  Koivuniemi (Lempäälä)",.,.,.,.,.,.
+"37600  Valkeakoski Keskus (Valkeakoski)",1157,1430,1377,34,55,45
+"37630  Vääräkoivu (Valkeakoski)",1091,943,867,9,23,28
+"37700  Sääksmäki (Valkeakoski)",.,.,.,.,.,.
+"37770  Tarttila (Valkeakoski)",.,.,.,.,.,.
+"37800  Toijala keskus (Akaa)",1415,1234,1073,22,47,36
+"37830  Viiala Keskus (Akaa)",...,807,696,5,11,10
+"37860  Kärjenniemi (Valkeakoski)",.,.,.,.,.,.
+"37900  Kylmäkoski Asemanseutu (Akaa)",.,.,.,.,.,.
+"37910  Kylmäkoski Keskus (Akaa)",.,.,.,.,.,.
+"37960  Sotkia (Akaa)",.,.,.,.,.,.
+"38100  Karkku (Sastamala)",.,.,.,.,.,.
+"38200  Vammala Keskus (Sastamala)",1558,1559,1747,23,39,35
+"38210  Vammala Asemanseutu (Sastamala)",898,990,...,7,16,5
+"38250  Roismala (Sastamala)",.,.,.,.,.,.
+"38270  Sammaljoki (Sastamala)",.,.,.,.,.,.
+"38300  Kiikka (Sastamala)",.,.,.,.,.,.
+"38360  Kiikoinen (Sastamala)",.,.,.,.,.,.
+"38420  Häijää (Sastamala)",.,.,.,.,.,.
+"38460  Mouhijärvi Keskus (Sastamala)",.,.,.,.,.,.
+"38510  Suodenniemi (Sastamala)",.,.,.,.,.,.
+"38600  Lavia Keskus (Pori)",...,.,...,3,.,1
+"38700  Kankaanpää Keskus (Kankaanpää)",...,941,...,5,8,3
+"38710  Myllymäki (Kankaanpää)",...,582,...,1,10,3
+"38800  Jämijärvi Keskus (Jämijärvi)",.,.,.,.,.,.
+"38840  Niinisalo (Kankaanpää)",.,.,.,.,.,.
+"38950  Honkajoki Keskus (Kankaanpää)",.,.,.,.,.,.
+"39100  Hämeenkyrö Keskus (Hämeenkyrö)",...,...,...,4,3,5
+"39130  Sasi (Hämeenkyrö)",.,.,.,.,.,.
+"39150  Pinsiö (Hämeenkyrö)",.,.,.,.,.,.
+"39160  Julkujärvi (Ylöjärvi)",.,.,.,.,.,.
+"39200  Kyröskoski (Hämeenkyrö)",...,737,778,6,8,6
+"39310  Viljakkala Keskus (Ylöjärvi)",.,.,.,.,.,.
+"39340  Karhe (Ylöjärvi)",.,.,.,.,.,.
+"39500  Ikaalinen Keskus (Ikaalinen)",1025,955,896,7,13,6
+"39580  Riitiala (Ikaalinen)",.,.,.,.,.,.
+"39700  Parkano Keskus (Parkano)",796,914,841,10,26,19
+"39820  Kihniö Keskus (Kihniö)",.,.,.,.,.,.
+"39930  Karvia Keskus (Karvia)",.,.,.,.,.,.
+"40100  Jyväskylä Keskus (Jyväskylä)",3501,2821,2602,106,242,127
+"40200  Mannila-Taulumäki (Jyväskylä)",3160,2595,2732,26,52,34
+"40250  Ritoniemi-Lohikoski (Jyväskylä)",1726,1519,1500,11,21,21
+"40270  Palokka (Jyväskylä)",2148,2233,1965,9,22,22
+"40320  Seppälän Teollisuusalue (Jyväskylä)",2380,1863,1589,21,39,25
+"40340  Huhtasuo (Jyväskylä)",1007,784,732,24,78,46
+"40400  Halssila (Jyväskylä)",...,1838,1928,40,23,7
+"40420  Jyskä (Jyväskylä)",...,1171,1865,5,15,6
+"40500  Keljo-Ristonmaa (Jyväskylä)",2582,2464,2462,9,13,7
+"40520  Kuokkala-Ristikivi (Jyväskylä)",2845,2090,2241,74,150,103
+"40530  Keljonkangas (Jyväskylä)",...,...,...,5,4,5
+"40600  Mattilanpelto (Jyväskylä)",2704,1966,1912,20,22,7
+"40620  Keskussairaala-alue-Kukkumäki (Jyväskylä)",...,...,.,1,1,.
+"40630  Kypärämäki (Jyväskylä)",...,1296,1284,5,7,11
+"40640  Keltinmäki (Jyväskylä)",1147,919,854,23,43,47
+"40700  Mäki-Matti (Jyväskylä)",3215,2595,2288,28,68,36
+"40720  Nisula (Jyväskylä)",2815,2314,2167,14,36,19
+"40740  Kortepohja (Jyväskylä)",2752,1611,1451,32,34,44
+"40800  Vaajakoski (Jyväskylä)",1518,1139,1067,11,28,17
+"40820  Vuoritsalo (Jyväskylä)",...,...,...,1,3,2
+"40900  Säynätsalo (Jyväskylä)",...,925,...,4,8,4
+"40930  Kinkomaa (Muurame)",.,.,.,.,.,.
+"40950  Muurame Keskus (Muurame)",...,1215,1183,3,15,8
+"41120  Puuppola (Jyväskylä)",.,.,.,.,.,.
+"41140  Kuikka (Jyväskylä)",.,.,.,.,.,.
+"41160  Tikkakoski (Jyväskylä)",...,854,956,4,29,11
+"41180  Vehniä (Laukaa)",.,.,.,.,.,.
+"41210  Jokihaara (Uurainen)",.,.,.,.,.,.
+"41220  Höytiä (Uurainen)",.,.,.,.,.,.
+"41230  Uurainen Keskus (Uurainen)",.,...,...,.,1,1
+"41270  Lannevesi (Saarijärvi)",.,.,.,.,.,.
+"41290  Kangashäkki (Uurainen)",.,.,.,.,.,.
+"41310  Leppävesi (Laukaa)",.,.,.,.,.,.
+"41330  Vihtavuori (Laukaa)",.,...,.,.,3,.
+"41340  Laukaa Keskus (Laukaa)",...,1620,1710,4,10,6
+"41350  Laukaa Asemanseutu (Laukaa)",.,.,.,.,.,.
+"41390  Äijälä (Laukaa)",.,.,.,.,.,.
+"41400  Lievestuore (Laukaa)",.,...,.,.,1,.
+"41440  Ruuhimäki (Toivakka)",.,.,.,.,.,.
+"41490  Niemisjärvi (Hankasalmi)",.,.,.,.,.,.
+"41500  Hankasalmi Asemanseutu (Hankasalmi)",.,...,.,.,1,.
+"41520  Hankasalmi Keskus (Hankasalmi)",...,.,...,1,.,1
+"41530  Veneranta (Hankasalmi)",.,.,.,.,.,.
+"41560  Säkinmäki (Hankasalmi)",.,.,.,.,.,.
+"41580  Sauvamäki (Hankasalmi)",.,.,.,.,.,.
+"41660  Toivakka Keskus (Toivakka)",.,.,.,.,.,.
+"41710  Rutalahti-Kivisuo (Jyväskylä)",.,.,.,.,.,.
+"41770  Leivonmäki (Joutsa)",.,.,.,.,.,.
+"41800  Korpilahti Keskus (Jyväskylä)",...,...,...,6,2,1
+"41820  Saakoski (Jyväskylä)",.,.,.,.,.,.
+"41870  Putkilahti (Jyväskylä)",.,.,.,.,.,.
+"41900  Petäjävesi Keskus (Petäjävesi)",.,...,...,.,5,2
+"41930  Kuohu (Jyväskylä)",.,.,.,.,.,.
+"42100  Jämsä Keskus (Jämsä)",902,1019,1022,14,19,15
+"42220  Kaipola (Jämsä)",...,...,...,1,1,2
+"42300  Jämsänkoski Keskus (Jämsä)",524,...,...,8,13,5
+"42440  Koskenpää (Jämsä)",.,.,.,.,.,.
+"42600  Multia Keskus-Väätäiskylä (Multia)",.,...,.,.,1,.
+"42700  Keuruu Keskus (Keuruu)",799,819,927,25,27,24
+"42720  Valkealahti (Keuruu)",.,...,.,.,1,.
+"42800  Haapamäki (Keuruu)",.,...,.,.,2,.
+"42850  Pohjaslahti (Mänttä-Vilppula)",.,.,.,.,.,.
+"42910  Pihlajavesi (Keuruu)",.,.,.,.,.,.
+"43100  Saarijärvi Keskus (Saarijärvi)",844,558,972,10,26,11
+"43220  Mahlu (Saarijärvi)",.,.,.,.,.,.
+"43270  Kalmari (Saarijärvi)",.,.,.,.,.,.
+"43300  Kannonkoski Keskus (Kannonkoski)",.,.,.,.,.,.
+"43440  Pylkönmäki Keskus (Saarijärvi)",.,.,.,.,.,.
+"43500  Karstula Keskus (Karstula)",...,...,.,1,3,.
+"43610  Aho (Karstula)",.,.,.,.,.,.
+"43700  Kyyjärvi Keskus (Kyyjärvi)",.,.,.,.,.,.
+"43800  Kivijärvi Keskus-Sompala (Kivijärvi)",.,...,.,.,1,.
+"43900  Kinnula Keskus (Kinnula)",.,.,.,.,.,.
+"44100  Äänekoski Keskus (Äänekoski)",921,1052,...,8,21,6
+"44120  Mämmensalmi-Mustaniemi (Äänekoski)",.,...,...,.,1,1
+"44150  Likolahti-Karhunlähde (Äänekoski)",...,744,...,2,8,4
+"44160  Huutomäki (Äänekoski)",.,...,.,.,1,.
+"44200  Suolahti Keskus (Äänekoski)",...,456,...,7,19,12
+"44220  Sörkänmäki (Äänekoski)",.,.,.,.,.,.
+"44260  Vihijärvi (Äänekoski)",.,.,.,.,.,.
+"44280  Sumiainen Keskus (Äänekoski)",.,.,.,.,.,.
+"44300  Konnevesi Keskus (Konnevesi)",.,.,...,.,.,1
+"44400  Konginkangas Keskus (Äänekoski)",.,...,...,.,1,1
+"44420  Liimattala (Äänekoski)",.,.,.,.,.,.
+"44500  Viitasaari Keskus (Viitasaari)",696,945,900,6,12,9
+"44670  Suovanlahti (Viitasaari)",.,.,.,.,.,.
+"44800  Pihtipudas Keskus (Pihtipudas)",.,.,.,.,.,.
+"44880  Muurasjärvi (Pihtipudas)",.,.,.,.,.,.
+"44920  Peninki (Pihtipudas)",.,.,.,.,.,.
+"44950  Kärväsjärvi (Pihtipudas)",.,.,.,.,.,.
+"45100  Kouvola Keskus (Kouvola)",1427,1475,1436,51,80,54
+"45120  Kotkankallio-Vahteronmäki (Kouvola)",...,...,...,3,4,2
+"45130  Korjala-Kaunisnurmi (Kouvola)",1087,1088,1570,11,20,6
+"45150  Kankaronmäki-Eskolanmäki (Kouvola)",705,557,588,26,26,14
+"45160  Lehtomäki (Kouvola)",774,758,760,14,39,29
+"45200  Tornionmäki (Kouvola)",978,1018,1111,20,44,28
+"45360  Kukkuramäki (Kouvola)",...,...,...,1,3,2
+"45370  Valkeala kk (Kouvola)",...,...,.,1,5,.
+"45410  Utti (Kouvola)",.,.,.,.,.,.
+"45460  Savero (Kouvola)",.,.,.,.,.,.
+"45610  Koria (Kouvola)",...,...,...,1,5,5
+"45700  Kuusankoski Keskus (Kouvola)",787,965,931,19,47,23
+"45720  Kotiharju-Puhjonmäki (Kouvola)",...,...,.,1,2,.
+"45740  Maunuksela (Kouvola)",.,...,.,.,3,.
+"45810  Pilkanmaa (Kouvola)",...,...,.,2,1,.
+"45910  Voikkaa (Kouvola)",...,516,...,3,9,12
+"46110  Tuohikotti (Kouvola)",.,.,.,.,.,.
+"46140  Vekaranjärvi (Kouvola)",.,.,.,.,.,.
+"46400  Kaipiainen (Kouvola)",.,.,.,.,.,.
+"46450  Enäjärvi (Kouvola)",.,.,.,.,.,.
+"46710  Sippola (Kouvola)",.,.,.,.,.,.
+"46800  Myllykoski (Kouvola)",576,691,...,8,9,6
+"46810  Ummeljoki (Kouvola)",.,.,.,.,.,.
+"46860  Anjalankoski Keskus (Kouvola)",.,...,.,.,3,.
+"46900  Inkeroinen (Kouvola)",...,600,...,2,13,2
+"46910  Anjala (Kouvola)",.,...,...,.,1,1
+"47200  Elimäki kk (Kouvola)",...,...,...,3,5,1
+"47400  Kausala (Iitti)",...,...,...,2,6,3
+"47710  Jaala kk (Kouvola)",.,.,.,.,.,.
+"47760  Huhdasjärvi (Kouvola)",.,.,.,.,.,.
+"47900  Vuohijärvi (Kouvola)",...,...,...,2,2,1
+"48100  Kotkansaari (Kotka)",1689,1563,1600,86,154,97
+"48130  Katariina (Kotka)",...,...,...,5,1,6
+"48200  Hovinsaari (Kotka)",1467,1072,...,10,31,4
+"48210  Toukolan Sairaala-Alue (Kotka)",.,.,.,.,.,.
+"48220  Metsola (Kotka)",...,.,.,4,.,.
+"48230  Korela-Jylppy (Kotka)",...,.,...,3,.,1
+"48300  Ruonala (Kotka)",.,...,.,.,1,.
+"48310  Mussalo (Kotka)",.,...,...,.,1,6
+"48350  Karhuvuori (Kotka)",614,468,598,19,32,23
+"48400  Sutela (Kotka)",...,...,...,2,3,4
+"48410  Kaukola (Kotka)",.,...,.,.,1,.
+"48600  Karhula (Kotka)",993,1174,1110,36,67,49
+"48700  Kyminlinna (Kotka)",...,681,822,4,17,11
+"48710  Koivula (Kotka)",.,.,.,.,.,.
+"48720  Kymi (Kotka)",.,.,.,.,.,.
+"48750  Nikeli (Kotka)",.,.,.,.,.,.
+"48770  Ristinkallio (Kotka)",...,...,...,3,1,2
+"48800  Otsola-Mäntykangas (Kotka)",.,.,.,.,.,.
+"48810  Rantahaka (Kotka)",.,.,.,.,.,.
+"48900  Sunila (Kotka)",593,594,570,13,19,8
+"48910  Suulisniemi (Kotka)",...,...,...,2,3,1
+"48930  Tiutinen (Kotka)",.,.,.,.,.,.
+"49210  Huutjärvi (Pyhtää)",.,.,.,.,.,.
+"49220  Siltakylä (Pyhtää)",.,.,...,.,.,1
+"49270  Pyhtää kk (Pyhtää)",...,.,.,1,.,.
+"49290  Vastila (Pyhtää)",.,.,.,.,.,.
+"49400  Hamina Keskus (Hamina)",1341,1260,1338,22,33,24
+"49410  Poitsila (Hamina)",...,592,...,2,15,7
+"49420  Uusi-Summa (Hamina)",.,...,...,.,2,2
+"49460  Hillo (Hamina)",...,...,...,3,9,6
+"49490  Neuvoton (Hamina)",.,.,.,.,.,.
+"49510  Husula (Hamina)",...,.,...,2,.,1
+"49570  Kannusjärvi (Hamina)",.,.,.,.,.,.
+"49700  Miehikkälä Kirkonkylä (Miehikkälä)",.,.,.,.,.,.
+"49730  Muurikkala (Miehikkälä)",.,.,.,.,.,.
+"49760  Suur-Miehikkälä (Miehikkälä)",.,.,.,.,.,.
+"49860  Klamila (Virolahti)",.,.,.,.,.,.
+"49900  Virolahti Keskus (Virolahti)",.,...,.,.,2,.
+"49980  Ravijoki (Virolahti)",.,.,.,.,.,.
+"50100  Mikkeli Keskus (Mikkeli)",2421,1897,1701,62,127,84
+"50120  Siekkilä (Mikkeli)",1641,...,...,7,3,5
+"50130  Nuijamies (Mikkeli)",...,1734,1508,4,28,10
+"50150  Karkialampi (Mikkeli)",.,.,.,.,.,.
+"50160  Kattilansilta (Mikkeli)",813,631,...,6,10,7
+"50170  Peitsari (Mikkeli)",...,1461,1257,3,20,14
+"50180  Visulahti (Mikkeli)",.,.,.,.,.,.
+"50190  Tuppurala (Mikkeli)",...,2148,1947,3,22,10
+"50200  Kovala (Mikkeli)",.,.,.,.,.,.
+"50500  Tuukkala-Kaituenmäki (Mikkeli)",.,...,.,.,3,.
+"50520  Moision Sairaala-alue (Mikkeli)",.,...,.,.,3,.
+"50600  Karikko (Mikkeli)",.,...,...,.,2,4
+"50670  Otava (Mikkeli)",.,...,...,.,2,2
+"50700  Syysjärvi (Mikkeli)",.,.,.,.,.,.
+"50970  Ihastjärvi (Mikkeli)",.,...,.,.,3,.
+"51200  Kangasniemi Keskus (Kangasniemi)",500,895,...,7,8,2
+"51600  Haukivuori Keskus-Piitkäaho (Mikkeli)",...,...,...,3,5,2
+"51850  Vuorenmaa (Juva)",.,.,.,.,.,.
+"51900  Juva Keskus (Juva)",...,869,516,9,19,9
+"52100  Anttola (Mikkeli)",.,.,.,.,.,.
+"52200  Puumala Keskus (Puumala)",...,...,...,1,3,1
+"52230  Hurissalo (Puumala)",.,.,.,.,.,.
+"52300  Ristiina Keskus (Mikkeli)",.,.,...,.,.,1
+"52320  Vitsiälä (Mikkeli)",.,.,.,.,.,.
+"52420  Pellosniemi (Mikkeli)",...,...,...,3,3,1
+"52510  Hietanen (Hirvensalmi)",.,.,.,.,.,.
+"52550  Hirvensalmi Keskus (Hirvensalmi)",.,.,.,.,.,.
+"52610  Tuukkalanlahti (Hirvensalmi)",.,.,.,.,.,.
+"52700  Mäntyharju Keskus (Mäntyharju)",...,825,800,3,11,6
+"52720  Karankamäki-Koirakivi (Mäntyharju)",.,.,.,.,.,.
+"52830  Suomenniemi (Mikkeli)",.,.,.,.,.,.
+"53100  Lappeenranta keskus (Lappeenranta)",2809,2381,2341,98,159,79
+"53130  Keskussairaala-alue-Kimpinen (Lappeenranta)",...,...,...,3,4,3
+"53200  Kaukas-Tirilä (Lappeenranta)",...,1658,...,1,12,1
+"53300  Lauritsala-Mälkiä (Lappeenranta)",1071,1097,1094,8,20,8
+"53400  Laihia (Lappeenranta)",.,.,.,.,.,.
+"53420  Mustola (Lappeenranta)",.,.,.,.,.,.
+"53500  Parkkarila-Harapainen-Reijola (Lappeenranta)",...,...,...,1,2,1
+"53550  Kourulanmäki (Lappeenranta)",.,.,.,.,.,.
+"53600  Kesämäki (Lappeenranta)",2540,2321,2678,9,31,23
+"53650  Mattila-Kuusela (Lappeenranta)",.,...,...,.,1,3
+"53810  Kuusimäki-Lavola (Lappeenranta)",1541,1189,1109,11,37,25
+"53830  Rutola (Lappeenranta)",.,.,.,.,.,.
+"53850  Skinnarila (Lappeenranta)",2965,1453,927,107,35,16
+"53900  Pallo-Tysterniemi-Leiri (Lappeenranta)",2595,2719,3092,22,49,23
+"53920  Voisalmi (Lappeenranta)",1210,1067,972,17,29,18
+"53950  Kivisalmi (Lappeenranta)",...,1104,1180,5,9,10
+"54100  Joutseno Keskus (Lappeenranta)",...,841,...,3,11,4
+"54110  Lampikangas (Lappeenranta)",.,.,.,.,.,.
+"54120  Pulp (Lappeenranta)",.,.,.,.,.,.
+"54190  Konnunsuo (Lappeenranta)",.,.,.,.,.,.
+"54230  Nuijamaa (Lappeenranta)",.,.,.,.,.,.
+"54270  Vainikkala (Lappeenranta)",.,.,.,.,.,.
+"54330  Simola (Lappeenranta)",.,.,.,.,.,.
+"54410  Ylämaa Keskus (Lappeenranta)",.,.,.,.,.,.
+"54430  Hujakkala (Lappeenranta)",.,.,.,.,.,.
+"54500  Taavetti-Somerharju (Luumäki)",...,...,...,7,6,2
+"54530  Luumäki (Luumäki)",.,.,.,.,.,.
+"54710  Lemi Keskus (Lemi)",.,.,...,.,.,3
+"54770  Heituinlahti (Savitaipale)",.,.,.,.,.,.
+"54800  Savitaipale Keskus (Savitaipale)",...,...,...,1,1,1
+"54820  Kotimäki (Lemi)",.,.,.,.,.,.
+"54850  Kuukanniemi (Lemi)",.,.,.,.,.,.
+"54915  Saimaanharju-Kyläniemi (Taipalsaari)",.,.,.,.,.,.
+"54920  Taipalsaari (Taipalsaari)",.,.,.,.,.,.
+"54950  Pettilä (Savitaipale)",.,.,.,.,.,.
+"54960  Vehkataipale (Taipalsaari)",.,.,.,.,.,.
+"55100  Imatra Keskus (Imatra)",965,1295,1027,33,40,26
+"55120  Mansikkala-Tuulikallio (Imatra)",750,739,589,13,17,6
+"55300  Rauha-Tiuruniemi (Lappeenranta)",...,.,.,3,.,.
+"55320  Rauha (Lappeenranta)",.,.,...,.,.,2
+"55330  Tiuruniemi (Lappeenranta)",.,.,.,.,.,.
+"55400  Tainionkoski-Mustalampi (Imatra)",...,...,...,1,2,1
+"55420  Karhumäki-Karhukallio (Imatra)",.,.,.,.,.,.
+"55510  Sotkulampi-Linnasuo (Imatra)",485,...,...,8,18,10
+"55610  Rajapatsas-Teppanala (Imatra)",...,...,...,6,11,6
+"55700  Vintteri-Virasoja (Imatra)",.,.,.,.,.,.
+"55800  Vuoksenniska-Saarlampi (Imatra)",...,538,...,6,18,14
+"55910  Rautio-Kurkvuori (Imatra)",...,...,...,3,4,1
+"56100  Ruokolahti Keskus (Ruokolahti)",...,...,...,2,3,1
+"56120  Salosaari (Ruokolahti)",.,.,.,.,.,.
+"56610  Rautjärvi (Rautjärvi)",.,.,.,.,.,.
+"56710  Miettilä (Rautjärvi)",.,.,.,.,.,.
+"56730  Laikko (Rautjärvi)",.,.,.,.,.,.
+"56800  Simpele (Rautjärvi)",.,...,...,.,1,1
+"57100  Heikinpohja-Piispanmäki (Savonlinna)",1366,1474,1735,34,69,33
+"57120  Savonlinna (Savonlinna)",.,.,.,.,.,.
+"57130  Savonlinna Keskus (Savonlinna)",1378,1518,1459,12,24,22
+"57170  Sortteerinlahti-Talvisalo (Savonlinna)",909,763,754,7,19,14
+"57200  Miekonniemi-Venäjänniemi (Savonlinna)",694,739,691,6,14,6
+"57210  Nojanmaa (Savonlinna)",...,759,...,5,11,2
+"57220  Haka-alue-Viuhonmäki (Savonlinna)",.,398,...,.,8,4
+"57230  Inkerinkylä (Savonlinna)",...,...,...,2,4,3
+"57510  Laitaatsilta (Savonlinna)",.,.,...,.,.,1
+"57600  Poukkusilta-Pihlajaniemi (Savonlinna)",.,.,.,.,.,.
+"57710  Kellarpelto-Rantakoivikko (Savonlinna)",.,...,.,.,3,.
+"58150  Makkola (Savonlinna)",.,.,.,.,.,.
+"58175  Enonkoski Keskus (Enonkoski)",.,.,.,.,.,.
+"58200  Kerimäki Keskus (Savonlinna)",.,.,...,.,.,1
+"58220  Louhi (Savonlinna)",.,.,.,.,.,.
+"58300  Savonranta Keskus (Savonlinna)",...,.,.,1,.,.
+"58410  Haapakallio (Savonlinna)",.,.,.,.,.,.
+"58450  Punkaharju (Savonlinna)",.,.,.,.,.,.
+"58500  Punkasalmi (Savonlinna)",.,...,...,.,3,1
+"58550  Putikko (Savonlinna)",.,.,.,.,.,.
+"58620  Lohilahti (Sulkava)",.,.,.,.,.,.
+"58700  Sulkava Keskus (Sulkava)",...,...,...,1,1,2
+"58770  Pihlajalahti (Savonlinna)",.,.,.,.,.,.
+"58810  Kallislahti (Savonlinna)",.,.,.,.,.,.
+"58850  Hiltula (Rantasalmi)",.,.,.,.,.,.
+"58900  Rantasalmi Keskus (Rantasalmi)",719,754,...,12,13,5
+"58910  Rantasalmi Asemanseutu (Rantasalmi)",.,.,.,.,.,.
+"59100  Parikkala Keskus (Parikkala)",...,599,...,3,6,1
+"59310  Särkisalmi (Parikkala)",.,.,...,.,.,2
+"59510  Maironiemi (Parikkala)",.,.,.,.,.,.
+"59720  Niukkala (Parikkala)",.,.,.,.,.,.
+"59730  Uukuniemi (Parikkala)",.,.,.,.,.,.
+"59800  Kesälahti Keskus (Kitee)",.,.,.,.,.,.
+"60100  Seinäjoki Keskus (Seinäjoki)",2744,2069,1884,66,138,80
+"60120  Pohja (Seinäjoki)",2846,2515,1364,7,21,10
+"60150  Kasperi (Seinäjoki)",...,1132,881,6,14,9
+"60200  Törnävä (Seinäjoki)",...,2066,2167,5,18,17
+"60220  Huhtala (Seinäjoki)",2158,1405,1598,8,13,9
+"60320  Alakylä-Jouppi (Seinäjoki)",...,...,...,6,4,4
+"60420  Impivaara (Seinäjoki)",.,.,.,.,.,.
+"60510  Hyllykallio (Seinäjoki)",...,2197,...,1,30,4
+"60550  Nurmo Keskus (Seinäjoki)",...,...,1238,3,1,9
+"60560  Halkosaari (Seinäjoki)",.,.,.,.,.,.
+"60640  Kurjenneva (Seinäjoki)",.,.,.,.,.,.
+"60720  Tuomikylä (Ilmajoki)",.,.,.,.,.,.
+"60760  Pojanluoma (Ilmajoki)",.,.,.,.,.,.
+"60800  Ilmajoki Keskus (Ilmajoki)",.,...,...,.,5,1
+"61100  Peräseinäjoki Keskus (Seinäjoki)",.,.,.,.,.,.
+"61270  Luopajärvi (Kurikka)",.,.,.,.,.,.
+"61280  Jokipii (Kurikka)",.,.,.,.,.,.
+"61300  Kurikka Keskus (Kurikka)",...,1788,...,6,9,3
+"61310  Panttila (Kurikka)",.,.,...,.,.,1
+"61330  Koskenkorva (Ilmajoki)",...,...,...,4,8,1
+"61360  Mieto (Kurikka)",.,.,.,.,.,.
+"61400  Ylistaro Keskus (Seinäjoki)",.,.,.,.,.,.
+"61470  Kitinoja (Seinäjoki)",.,.,.,.,.,.
+"61500  Isokyrö Keskus (Isokyrö)",...,...,...,3,3,2
+"61520  Lehmäjoki (Isokyrö)",.,.,.,.,.,.
+"61550  Orismala (Isokyrö)",.,.,.,.,.,.
+"61600  Jalasjärvi Keskus (Kurikka)",...,...,...,4,7,4
+"61720  Koskue (Kurikka)",.,.,.,.,.,.
+"61800  Kauhajoki Keskus (Kauhajoki)",.,...,...,.,2,3
+"61840  Norinkylä (Teuva)",.,.,.,.,.,.
+"61850  Kauhajoki Asemanseutu (Kauhajoki)",.,.,.,.,.,.
+"61980  Päntäne (Kauhajoki)",.,.,.,.,.,.
+"62100  Lapua Keskus (Lapua)",...,...,1579,6,7,10
+"62190  Ruha (Lapua)",.,.,.,.,.,.
+"62200  Kauhava Keskus (Kauhava)",...,...,...,2,4,6
+"62300  Härmä (Kauhava)",.,.,.,.,.,.
+"62370  Kangasto (Kauhava)",.,.,.,.,.,.
+"62375  Ylihärmä Keskus-Vesiluoma (Kauhava)",.,...,.,.,1,.
+"62420  Kortesjärvi Keskus (Kauhava)",.,.,...,.,.,1
+"62500  Evijärvi Keskus (Evijärvi)",.,.,.,.,.,.
+"62510  Kuoppa-aho (Evijärvi)",.,.,.,.,.,.
+"62520  Kautiainen (Evijärvi)",.,.,.,.,.,.
+"62600  Lappajärvi Keskus (Lappajärvi)",.,.,.,.,.,.
+"62660  Itäkylä (Lappajärvi)",.,.,.,.,.,.
+"62800  Vimpeli Keskus (Vimpeli)",.,.,.,.,.,.
+"62830  Luoma-Aho (Alajärvi)",.,.,.,.,.,.
+"62900  Alajärvi Keskus (Alajärvi)",...,...,...,1,4,1
+"63100  Kuortane Keskus (Kuortane)",.,...,.,.,1,.
+"63130  Mäyry (Kuortane)",.,.,.,.,.,.
+"63300  Alavus Keskus (Alavus)",...,...,...,2,3,3
+"63350  Sulkavankylä (Alavus)",.,.,.,.,.,.
+"63400  Alavus Asemanseutu (Alavus)",.,.,.,.,.,.
+"63410  Rantatöysä (Alavus)",.,.,.,.,.,.
+"63500  Lehtimäki Keskus (Alajärvi)",.,.,...,.,.,1
+"63510  Lehtimäki Kirkonkylä (Alajärvi)",.,.,.,.,.,.
+"63600  Töysä Keskus (Alavus)",.,.,.,.,.,.
+"63610  Tuuri (Alavus)",.,.,.,.,.,.
+"63680  Hakojärvi (Alavus)",.,.,.,.,.,.
+"63700  Ähtäri Keskus (Ähtäri)",...,742,...,3,11,5
+"63780  Alastaipale (Ähtäri)",.,.,.,.,.,.
+"63800  Soini Keskus (Soini)",.,.,.,.,.,.
+"63900  Myllymäki-Vehunkylä (Ähtäri)",.,.,.,.,.,.
+"63910  Inhan Tehtaat (Ähtäri)",.,.,.,.,.,.
+"63920  Inha (Ähtäri)",.,.,.,.,.,.
+"64100  Kristiinankaupunki keskus (Kristinestad)",...,...,...,7,8,8
+"64140  Tiukka (Kristinestad)",.,.,.,.,.,.
+"64200  Närpiö Keskus (Närpes)",...,1211,1746,4,15,7
+"64220  Yttermark (Närpes)",.,.,.,.,.,.
+"64230  Närpiön Asemanseutu (Närpes)",.,.,.,.,.,.
+"64240  Böle (Närpes)",.,.,.,.,.,.
+"64250  Pjelax (Närpes)",.,.,.,.,.,.
+"64260  Kaskinen (Kaskinen)",...,538,...,2,12,6
+"64300  Lapväärtti (Kristinestad)",...,.,...,1,.,1
+"64350  Karijoki Keskus (Karijoki)",.,.,.,.,.,.
+"64370  Myrkky (Karijoki)",.,.,.,.,.,.
+"64440  Metsälä-Kallträsk (Kristinestad)",.,.,.,.,.,.
+"64460  Härkmeri (Kristinestad)",.,.,.,.,.,.
+"64480  Skaftung (Kristinestad)",.,.,.,.,.,.
+"64490  Siipyy (Kristinestad)",.,.,.,.,.,.
+"64510  Nämpnäs (Närpes)",.,.,.,.,.,.
+"64530  Norrnäs (Närpes)",.,.,.,.,.,.
+"64550  Rangsby (Närpes)",.,.,.,.,.,.
+"64610  Övermark (Närpes)",.,.,.,.,.,.
+"64700  Teuva Keskus (Teuva)",.,.,.,.,.,.
+"64740  Horo (Teuva)",.,.,.,.,.,.
+"64760  Peltola (Teuva)",.,.,.,.,.,.
+"64770  Äystö (Teuva)",.,.,.,.,.,.
+"64810  Vanhakylä (Isojoki)",.,.,.,.,.,.
+"64820  Kärjenkoski (Isojoki)",.,.,.,.,.,.
+"64900  Isojoki Keskus (Isojoki)",.,.,.,.,.,.
+"65100  Vaasa Keskus (Vaasa)",2912,2484,2381,177,261,179
+"65170  Vaskiluoto (Vaasa)",.,...,.,.,2,.
+"65200  Palosaari (Vaasa)",2421,1808,2014,32,57,28
+"65230  Vetokannas (Vaasa)",...,1278,1421,2,14,12
+"65280  Gerby (Vaasa)",...,1313,1022,2,12,13
+"65300  Asevelikylä (Vaasa)",.,...,...,.,1,3
+"65320  Huutoniemi (Vaasa)",...,1156,1195,3,14,20
+"65350  Suvilahti (Vaasa)",1391,1633,1196,19,23,25
+"65370  Ristinummi (Vaasa)",988,867,891,16,52,10
+"65380  Vanha Vaasa (Vaasa)",1099,1048,1008,7,7,8
+"65410  Sundom (Vaasa)",.,.,.,.,.,.
+"65450  Sulva (Korsholm)",.,.,.,.,.,.
+"65460  Tölby-Rimal (Korsholm)",.,.,.,.,.,.
+"65480  Vikby (Korsholm)",.,.,.,.,.,.
+"65520  Helsingby (Korsholm)",.,.,.,.,.,.
+"65610  Mustasaari Keskus (Korsholm)",...,1614,1615,5,15,6
+"65630  Karperö (Korsholm)",.,.,.,.,.,.
+"65650  Koskö (Korsholm)",.,.,.,.,.,.
+"65710  Singsby (Korsholm)",.,.,.,.,.,.
+"65730  Jungsund (Korsholm)",.,.,.,.,.,.
+"65800  Raippaluoto (Korsholm)",.,.,.,.,.,.
+"66100  Maalahti (Malax)",.,.,...,.,.,1
+"66140  Övermalax (Malax)",.,.,.,.,.,.
+"66160  Långåminne (Malax)",.,.,.,.,.,.
+"66200  Korsnäs Keskus (Korsnäs)",.,.,.,.,.,.
+"66210  Moikipää (Korsnäs)",.,.,.,.,.,.
+"66220  Bergö (Malax)",.,.,.,.,.,.
+"66230  Korsbäck (Korsnäs)",.,.,.,.,.,.
+"66240  Petolahti (Malax)",.,.,.,.,.,.
+"66270  Pirttikylä-Sorvari (Närpes)",.,.,.,.,.,.
+"66280  Taklax (Korsnäs)",.,.,.,.,.,.
+"66290  Harrström (Korsnäs)",.,.,.,.,.,.
+"66295  Töjby (Närpes)",.,.,.,.,.,.
+"66300  Jurva Keskus (Kurikka)",.,...,.,.,3,.
+"66320  Niemenkylä (Kurikka)",.,.,.,.,.,.
+"66360  Kesti (Kurikka)",.,.,.,.,.,.
+"66400  Laihia Keskus (Laihia)",...,1576,...,2,8,4
+"66420  Ruto (Laihia)",.,.,.,.,.,.
+"66430  Vedenoja (Vaasa)",.,.,.,.,.,.
+"66440  Tervajoki (Isokyrö)",.,.,.,.,.,.
+"66500  Vähäkyrö Keskus (Vaasa)",.,.,.,.,.,.
+"66510  Merikaarto (Vaasa)",.,.,.,.,.,.
+"66520  Veikkaala (Korsholm)",.,.,.,.,.,.
+"66530  Koivulahti (Korsholm)",.,.,.,.,.,.
+"66540  Petsmo (Korsholm)",.,.,.,.,.,.
+"66550  Västerhankmo (Korsholm)",.,.,.,.,.,.
+"66580  Kuni (Korsholm)",.,.,.,.,.,.
+"66600  Vöyri Keskus (Vöyri)",.,.,...,.,.,1
+"66640  Maksamaa (Vöyri)",.,.,.,.,.,.
+"66710  Kaitsor (Vöyri)",.,.,.,.,.,.
+"66800  Oravainen Keskus (Vöyri)",...,.,.,1,.,.
+"66830  Oravaisten Tehdas (Vöyri)",.,.,.,.,.,.
+"66840  Pensala (Nykarleby)",.,.,.,.,.,.
+"66850  Jepua (Nykarleby)",.,.,.,.,.,.
+"66900  Uusikaarlepyy Keskus (Nykarleby)",...,1051,...,4,10,3
+"66910  Soklot (Nykarleby)",.,.,.,.,.,.
+"66950  Munsala (Nykarleby)",.,.,.,.,.,.
+"66970  Hirvlax (Nykarleby)",.,.,.,.,.,.
+"67100  Kokkola Keskus (Kokkola)",2307,1894,1810,44,66,65
+"67200  Kiviniitty-Tullimäki (Kokkola)",2067,1668,1488,12,36,24
+"67300  Halkokari (Kokkola)",...,...,.,3,1,.
+"67400  Rytimäki (Kokkola)",.,...,...,.,1,2
+"67600  Linnusperä-Kaustari (Kokkola)",.,.,.,.,.,.
+"67700  Kirkonmäki-Isokylä (Kokkola)",.,.,...,.,.,2
+"67800  Koivuhaka (Kokkola)",...,...,763,5,7,10
+"67900  Ykspihjala (Kokkola)",.,.,.,.,.,.
+"68100  Himanka Keskus (Kalajoki)",.,.,.,.,.,.
+"68210  Marinkainen (Kokkola)",.,.,.,.,.,.
+"68230  Lohtaja Keskus (Kokkola)",.,.,.,.,.,.
+"68300  Kälviä Keskus (Kokkola)",.,.,.,.,.,.
+"68320  Ruotsalo (Kokkola)",.,.,.,.,.,.
+"68370  Ullava Keskus (Kokkola)",.,.,.,.,.,.
+"68380  Yli-Ullava (Kokkola)",.,.,.,.,.,.
+"68390  Rahkonen (Kokkola)",.,.,.,.,.,.
+"68410  Alaveteli (Kronoby)",.,...,.,.,1,.
+"68500  Kruunupyy Keskus (Kronoby)",.,...,.,.,5,.
+"68530  Lepplax (Pedersöre)",.,.,.,.,.,.
+"68555  Bosund (Larsmo)",.,.,.,.,.,.
+"68560  Eugmo (Larsmo)",.,.,.,.,.,.
+"68570  Luoto (Larsmo)",.,...,...,.,2,1
+"68580  Furuholmen (Larsmo)",.,.,.,.,.,.
+"68600  Pietarsaari Keskus (Jakobstad)",1364,1341,1383,11,32,39
+"68620  Skutnäs-Västermalm (Jakobstad)",1472,1257,1132,20,44,15
+"68630  Kyrkostrand (Jakobstad)",...,.,...,1,.,1
+"68660  Östermalm-Björnholmen (Jakobstad)",...,713,610,2,13,9
+"68700  Teerijärvi (Kronoby)",.,.,.,.,.,.
+"68750  Småbönders (Kronoby)",.,.,.,.,.,.
+"68800  Kolppi (Pedersöre)",.,.,.,.,.,.
+"68810  Ytteresse (Pedersöre)",.,.,.,.,.,.
+"68820  Ähtävä (Pedersöre)",.,.,.,.,.,.
+"68870  Edsevö (Pedersöre)",.,.,.,.,.,.
+"68910  Pännäinen (Pedersöre)",.,.,.,.,.,.
+"68930  Purmo (Pedersöre)",.,.,.,.,.,.
+"68940  Lillby (Pedersöre)",.,.,.,.,.,.
+"69100  Kannus Keskus (Kannus)",...,...,...,3,5,4
+"69150  Eskola (Kannus)",.,.,.,.,.,.
+"69300  Toholampi Keskus (Toholampi)",.,.,.,.,.,.
+"69310  Laitala (Toholampi)",.,.,.,.,.,.
+"69410  Sykäräinen (Toholampi)",.,.,.,.,.,.
+"69440  Lestijärvi Keskus (Lestijärvi)",.,.,.,.,.,.
+"69510  Halsua Keskus-Marjusaari (Halsua)",.,.,.,.,.,.
+"69600  Kaustinen Keskus (Kaustinen)",.,.,...,.,.,1
+"69700  Veteli Keskus (Veteli)",.,.,.,.,.,.
+"69730  Tunkkari (Veteli)",.,.,.,.,.,.
+"69750  Sillanpää (Veteli)",.,.,.,.,.,.
+"69820  Räyrinki (Veteli)",.,.,.,.,.,.
+"69850  Patana (Veteli)",.,.,.,.,.,.
+"69950  Perho Keskus-Salamajärvi (Perho)",.,.,.,.,.,.
+"69980  Möttönen (Perho)",.,.,.,.,.,.
+"70100  Kuopio Keskus (Kuopio)",3297,2774,2708,61,173,145
+"70110  Etu-Niirala (Kuopio)",3435,2899,2860,77,98,45
+"70150  Neulamäki (Kuopio)",2285,1491,1263,9,29,31
+"70200  Puijonlaakso (Kuopio)",2423,1851,1774,13,73,36
+"70260  Julkula (Kuopio)",...,2392,...,1,6,3
+"70280  Länsi-Puijo (Kuopio)",...,...,...,3,4,1
+"70300  Linnanpelto (Kuopio)",...,...,3134,3,6,20
+"70340  Inkilänmäki (Kuopio)",2771,1758,2055,8,32,22
+"70400  Kettulanlahti (Kuopio)",.,.,.,.,.,.
+"70420  Päiväranta (Kuopio)",...,1340,...,3,11,4
+"70460  Saarijärvi (Kuopio)",1018,810,718,9,30,21
+"70500  Männistö (Kuopio)",1932,1822,1396,29,89,50
+"70600  Niirala-Huuhanmäki (Kuopio)",3171,2470,2362,14,32,23
+"70620  Haapaniemi (Kuopio)",2107,1821,1746,10,21,7
+"70700  Särkiniemi (Kuopio)",...,1591,1573,2,14,8
+"70780  Jynkkä (Kuopio)",...,1101,...,3,12,2
+"70800  Pitkälahti (Kuopio)",.,.,.,.,.,.
+"70820  Litmanen (Kuopio)",1589,1463,1310,16,49,23
+"70840  Jynkänmäki (Kuopio)",3634,2969,2796,13,56,55
+"70870  Hiltulanlahti (Kuopio)",.,.,.,.,.,.
+"70900  Toivala (Siilinjärvi)",.,.,.,.,.,.
+"70910  Vuorela (Siilinjärvi)",...,1752,2495,3,6,8
+"71160  Riistavesi (Kuopio)",.,.,.,.,.,.
+"71200  Tuusniemi Keskus (Tuusniemi)",.,...,.,.,6,.
+"71210  Tuusjärvi (Tuusniemi)",.,.,.,.,.,.
+"71240  Paakkila (Tuusniemi)",.,.,.,.,.,.
+"71280  Kosula (Tuusniemi)",.,.,.,.,.,.
+"71310  Vehmersalmi Keskus (Kuopio)",...,.,.,1,.,.
+"71470  Oravikoski (Leppävirta)",.,...,...,.,1,3
+"71480  Kurkimäki (Kuopio)",.,.,.,.,.,.
+"71570  Syvänniemi (Kuopio)",.,.,.,.,.,.
+"71730  Kinnulanlahti (Kuopio)",.,.,.,.,.,.
+"71750  Maaninka Keskus (Kuopio)",.,.,.,.,.,.
+"71760  Ahkionlahti-Vianta (Kuopio)",.,.,.,.,.,.
+"71775  Tuovilanlahti-Haatala (Kuopio)",.,.,.,.,.,.
+"71800  Siilinjärvi Keskus (Siilinjärvi)",1413,1605,1590,13,22,8
+"71840  Kuuslahti (Siilinjärvi)",.,.,.,.,.,.
+"71850  Leppäkaarre (Siilinjärvi)",...,.,...,2,.,2
+"71870  Harjamäki (Siilinjärvi)",.,...,.,.,5,.
+"71910  Alapitkä (Lapinlahti)",.,.,.,.,.,.
+"71960  Lukkarila (Lapinlahti)",.,.,.,.,.,.
+"72100  Karttula Keskus (Kuopio)",.,.,.,.,.,.
+"72210  Tervo Keskus-Eliaksela (Tervo)",...,...,...,2,1,1
+"72300  Vesanto Keskus (Vesanto)",...,...,.,2,1,.
+"72360  Närhilä (Vesanto)",.,.,.,.,.,.
+"72400  Pielavesi Keskus-Jylänki (Pielavesi)",...,543,...,3,10,3
+"72550  Säviä (Pielavesi)",.,.,.,.,.,.
+"72600  Keitele Keskus (Keitele)",...,...,.,1,1,.
+"72950  Porttila (Keitele)",.,.,.,.,.,.
+"73100  Lapinlahti Keskus (Lapinlahti)",...,948,...,5,6,4
+"73200  Varpaisjärvi Keskus (Lapinlahti)",.,.,.,.,.,.
+"73230  Syvärinpää (Lapinlahti)",.,.,.,.,.,.
+"73250  Korpijärvi (Lapinlahti)",.,.,.,.,.,.
+"73300  Nilsiä Keskus (Kuopio)",...,1437,...,6,14,6
+"73310  Tahkovuori (Kuopio)",.,2404,...,.,6,1
+"73410  Pieksänkoski (Kuopio)",.,.,.,.,.,.
+"73460  Muuruvesi (Kuopio)",.,...,.,.,2,.
+"73500  Juankoski Keskus (Kuopio)",...,...,...,1,10,2
+"73600  Kaavi Keskus (Kaavi)",...,...,.,1,1,.
+"73670  Luikonlahti (Kaavi)",.,.,.,.,.,.
+"73770  Säyneinen-Ala-Siikajärvi (Kuopio)",.,.,.,.,.,.
+"73850  Ala-Luosta-Riitasalo (Rautavaara)",.,.,.,.,.,.
+"73900  Rautavaara Keskus (Rautavaara)",.,.,.,.,.,.
+"74100  Iisalmi Keskus, Eteläinen (Iisalmi)",1286,1262,1689,26,41,30
+"74120  Iisalmi Keskus Pohjoinen (Iisalmi)",918,904,683,9,23,14
+"74130  Kihmula (Iisalmi)",...,613,982,2,7,6
+"74200  Vieremä Keskus (Vieremä)",.,.,.,.,.,.
+"74250  Nissilä (Vieremä)",.,.,.,.,.,.
+"74300  Sonkajärvi Keskus (Sonkajärvi)",...,...,.,1,1,.
+"74340  Sukeva-Kainuunmäki (Sonkajärvi)",.,.,.,.,.,.
+"74380  Jyrkkä (Sonkajärvi)",.,.,.,.,.,.
+"74510  Peltosalmi-Sourunsalo (Iisalmi)",.,...,.,.,2,.
+"74550  Pörsänmäki (Iisalmi)",.,.,.,.,.,.
+"74700  Kiuruvesi Keskus (Kiuruvesi)",...,492,...,9,9,4
+"74940  Remeskylä-Tihilänkangas (Kiuruvesi)",.,.,.,.,.,.
+"75500  Nurmes Keskus (Nurmes)",...,709,...,5,12,5
+"75530  Porokylä (Nurmes)",...,1185,...,1,12,3
+"75680  Ylä-Luosta (Rautavaara)",.,.,.,.,.,.
+"75700  Valtimo Keskus (Nurmes)",...,...,.,1,1,.
+"76100  Pieksämäki Keskus (Pieksämäki)",459,491,570,13,48,21
+"76120  Kontiopuisto (Pieksämäki)",...,.,...,8,.,1
+"76130  Pappilanmäki (Pieksämäki)",.,.,.,.,.,.
+"76150  Länsirinne (Pieksämäki)",...,467,...,5,15,7
+"76850  Naarajärvi (Pieksämäki)",.,...,.,.,1,.
+"76940  Nenonpelto (Pieksämäki)",.,.,.,.,.,.
+"77240  Halkokumpu (Pieksämäki)",.,.,.,.,.,.
+"77330  Virtasalmi Keskus (Pieksämäki)",.,.,.,.,.,.
+"77570  Jäppilä Keskus (Pieksämäki)",.,.,.,.,.,.
+"77580  Tihusniemi (Pieksämäki)",.,.,.,.,.,.
+"77600  Suonenjoki Keskus (Suonenjoki)",760,645,838,13,19,14
+"77700  Rautalampi Keskus (Rautalampi)",...,.,.,1,.,.
+"77800  Iisvesi (Suonenjoki)",...,.,.,1,.,.
+"78200  Varkaus Keskus (Varkaus)",680,836,870,20,48,39
+"78210  Kuoppakangas (Varkaus)",...,...,.,2,2,.
+"78250  Päiviönsaari (Varkaus)",...,...,674,4,6,15
+"78300  Kommila (Varkaus)",...,...,...,1,16,3
+"78310  Puurtila (Varkaus)",.,.,.,.,.,.
+"78400  Luttila (Varkaus)",.,.,.,.,.,.
+"78480  Timola (Leppävirta)",.,.,.,.,.,.
+"78500  Pitkälänniemi-Könönpelto (Varkaus)",.,.,.,.,.,.
+"78710  Akonlahti (Varkaus)",.,.,.,.,.,.
+"78850  Käpykangas (Varkaus)",.,...,.,.,3,.
+"78870  Kaura-Aho (Varkaus)",.,...,...,.,3,1
+"78880  Kuvansi (Joroinen)",.,.,.,.,.,.
+"79100  Leppävirta Keskus (Leppävirta)",...,642,...,4,10,6
+"79130  Sorsakoski (Leppävirta)",.,...,...,.,3,1
+"79255  Kurjala-Moninmäki (Leppävirta)",.,.,.,.,.,.
+"79480  Kangaslampi Keskus (Varkaus)",.,.,.,.,.,.
+"79520  Viljolahti (Varkaus)",.,.,.,.,.,.
+"79600  Joroinen Keskus (Joroinen)",...,...,...,1,2,1
+"79700  Heinävesi Keskus (Heinävesi)",.,...,.,.,10,.
+"79810  Karvion kanava (Heinävesi)",.,.,.,.,.,.
+"79940  Vihtari-Poikiinaho (Heinävesi)",.,.,.,.,.,.
+"80100  Joensuu Keskus, Pohjoinen (Joensuu)",2635,2167,1776,63,124,67
+"80110  Joensuu Keskus Eteläinen (Joensuu)",2680,2058,1968,31,68,52
+"80130  Kanervala (Joensuu)",...,.,.,1,.,.
+"80140  Noljakka (Joensuu)",...,1767,1845,2,21,9
+"80160  Rantakylä-Latola (Joensuu)",2080,1606,1108,10,31,21
+"80170  Utra (Joensuu)",...,...,.,3,3,.
+"80200  Niinivaara (Joensuu)",2272,2323,1882,15,46,24
+"80220  Penttilä (Joensuu)",3651,2799,3031,6,32,15
+"80230  Hukanhauta (Joensuu)",2492,2379,...,6,6,3
+"80260  Kettuvaara (Joensuu)",...,...,...,4,5,4
+"80330  Reijola (Joensuu)",.,.,.,.,.,.
+"80400  Ylämylly (Liperi)",...,...,...,1,2,1
+"80510  Onttola-Kunnasniemi (Kontiolahti)",...,.,...,2,.,2
+"80710  Lehmo (Kontiolahti)",.,...,...,.,2,1
+"80770  Kontiolahti as (Kontiolahti)",.,.,.,.,.,.
+"80780  Kontioniemi (Kontiolahti)",...,...,.,1,2,.
+"80790  Kontioranta-Kontioniemi (Kontiolahti)",.,...,.,.,1,.
+"80850  Paihola (Kontiolahti)",.,.,.,.,.,.
+"80910  Kulho (Kontiolahti)",.,.,.,.,.,.
+"81100  Kontiolahti (Kontiolahti)",.,...,.,.,4,.
+"81160  Romppala-Riihikangas (Kontiolahti)",.,.,.,.,.,.
+"81200  Eno Keskus (Joensuu)",...,...,.,1,1,.
+"81210  Louhioja (Joensuu)",.,.,.,.,.,.
+"81220  Jakokoski (Kontiolahti)",.,.,.,.,.,.
+"81230  Mönni (Kontiolahti)",.,.,.,.,.,.
+"81235  Lehtoi (Kontiolahti)",.,.,.,.,.,.
+"81280  Uimaharju (Joensuu)",...,.,...,2,.,2
+"81290  Ukkola (Joensuu)",.,.,.,.,.,.
+"81390  Revonkylä (Joensuu)",.,.,.,.,.,.
+"81470  Naarva (Ilomantsi)",.,.,.,.,.,.
+"81590  Vuonislahti (Lieksa)",.,.,.,.,.,.
+"81650  Hattuvaara (Lieksa)",.,.,.,.,.,.
+"81700  Lieksa Keskus (Lieksa)",617,584,541,13,23,11
+"81720  Mähkö-Timitra (Lieksa)",...,...,.,5,2,.
+"81750  Pankakoski (Lieksa)",.,.,.,.,.,.
+"81970  Jongunjoki-Pankajärvi (Lieksa)",.,.,.,.,.,.
+"82110  Heinävaara (Joensuu)",.,.,.,.,.,.
+"82120  Keskijärvi (Joensuu)",.,.,.,.,.,.
+"82140  Kiihtelysvaara Keskus (Joensuu)",.,.,.,.,.,.
+"82200  Hammaslahti (Joensuu)",.,.,.,.,.,.
+"82220  Niittylahti (Joensuu)",.,.,.,.,.,.
+"82290  Nieminen (Rääkkylä)",.,.,.,.,.,.
+"82300  Rääkkylä Keskus (Rääkkylä)",.,.,.,.,.,.
+"82350  Tikkala (Tohmajärvi)",.,.,.,.,.,.
+"82430  Puhos-Leinovaara (Kitee)",...,...,.,2,2,.
+"82490  Heinoniemi (Kitee)",.,.,.,.,.,.
+"82500  Kitee Keskus (Kitee)",853,632,700,6,13,7
+"82600  Tohmajärvi Keskus (Tohmajärvi)",...,...,...,1,2,1
+"82655  Värtsilä Keskus (Tohmajärvi)",.,.,...,.,.,1
+"82710  Kovero (Joensuu)",.,.,.,.,.,.
+"82730  Tuupovaara Keskus-Pirttiaho (Joensuu)",.,.,.,.,.,.
+"82750  Öllölä (Joensuu)",.,.,.,.,.,.
+"82760  Hoilola (Joensuu)",.,.,.,.,.,.
+"82900  Ilomantsi Keskus (Ilomantsi)",710,...,...,7,2,1
+"83100  Liperi Keskus (Liperi)",...,.,.,3,.,.
+"83130  Salokylä (Liperi)",.,.,.,.,.,.
+"83330  Kaatamo (Liperi)",.,.,.,.,.,.
+"83400  Viinijärvi (Liperi)",.,.,.,.,.,.
+"83430  Käsämä (Liperi)",.,.,.,.,.,.
+"83500  Outokumpu Keskus (Outokumpu)",...,...,...,7,12,16
+"83700  Polvijärvi Keskus (Polvijärvi)",...,...,...,5,4,2
+"83720  Kuorevaara (Polvijärvi)",.,.,.,.,.,.
+"83750  Sotkuma (Polvijärvi)",.,.,.,.,.,.
+"83870  Polvela-Timovaara (Juuka)",.,.,.,.,.,.
+"83900  Juuka Keskus (Juuka)",...,...,.,3,2,.
+"83940  Nunnanlahti (Juuka)",.,.,.,.,.,.
+"83950  Ahmovaara (Juuka)",.,.,.,.,.,.
+"83960  Koli (Lieksa)",.,.,.,.,.,.
+"84100  Ylivieska Keskus (Ylivieska)",1527,1378,1622,15,42,23
+"84880  Raudaskylä (Ylivieska)",.,.,.,.,.,.
+"85100  Kalajoki Keskus (Kalajoki)",.,...,...,.,2,4
+"85140  Tynkä (Kalajoki)",.,.,.,.,.,.
+"85160  Rautio (Kalajoki)",.,.,.,.,.,.
+"85200  Alavieska Keskus (Alavieska)",.,.,.,.,.,.
+"85230  Talus (Alavieska)",.,.,.,.,.,.
+"85310  Sievi Asemanseutu (Sievi)",.,.,.,.,.,.
+"85320  Markkula (Sievi)",.,.,.,.,.,.
+"85410  Sievi Keskus (Sievi)",.,...,.,.,1,.
+"85430  Koivisto (Sievi)",.,.,.,.,.,.
+"85450  Joenkylä (Sievi)",.,.,.,.,.,.
+"85500  Nivala Keskus (Nivala)",...,1215,...,2,7,3
+"85560  Ainastalo (Nivala)",.,.,.,.,.,.
+"85580  Karvoskylä (Nivala)",.,.,.,.,.,.
+"85630  Sarjanahde (Nivala)",.,.,.,.,.,.
+"85640  Maliskylä (Nivala)",.,.,.,.,.,.
+"85660  Ruuskankylä (Nivala)",.,.,.,.,.,.
+"85800  Haapajärvi Keskus (Haapajärvi)",.,...,...,.,4,3
+"85820  Oksava (Haapajärvi)",.,.,.,.,.,.
+"85900  Reisjärvi Keskus (Reisjärvi)",.,.,.,.,.,.
+"85980  Köyhänperä (Reisjärvi)",.,.,.,.,.,.
+"86100  Pyhäjoki Keskus (Pyhäjoki)",.,.,.,.,.,.
+"86170  Yppäri (Pyhäjoki)",.,.,.,.,.,.
+"86220  Merijärvi Keskus (Merijärvi)",.,.,.,.,.,.
+"86300  Oulainen Keskus (Oulainen)",956,813,1143,7,6,7
+"86400  Vihanti Keskus (Raahe)",.,.,.,.,.,.
+"86440  Lampinsaari (Raahe)",.,...,...,.,1,1
+"86600  Haapavesi Keskus (Haapavesi)",...,...,.,4,4,.
+"86710  Kärsämäki Keskus (Kärsämäki)",.,.,.,.,.,.
+"86800  Pyhäsalmi (Pyhäjärvi)",...,...,.,1,8,.
+"86900  Pyhäkumpu (Pyhäjärvi)",.,.,.,.,.,.
+"87100  Kajaani Keskus (Kajaani)",1689,1519,1411,58,78,51
+"87150  Purola (Kajaani)",...,711,...,3,11,5
+"87200  Teppana (Kajaani)",...,1144,1463,6,17,13
+"87250  Kättö-Kätönlahti (Kajaani)",.,...,...,.,2,3
+"87300  Palokangas (Kajaani)",...,1132,966,1,11,8
+"87400  Petäisenniska (Kajaani)",.,995,674,.,12,6
+"87500  Lehtikangas (Kajaani)",...,862,794,4,32,22
+"87700  Lohtaja-Kettu (Kajaani)",.,...,.,.,4,.
+"87830  Nakertaja (Kajaani)",.,.,.,.,.,.
+"87900  Karankalahti (Kajaani)",.,.,.,.,.,.
+"88200  Otanmäki-Kytökoski (Kajaani)",...,...,...,5,6,16
+"88270  Vuolijoki Keskus (Kajaani)",.,...,.,.,1,.
+"88300  Paltamo Keskus (Paltamo)",.,.,.,.,.,.
+"88340  Manamansalo (Vaala)",.,.,.,.,.,.
+"88400  Ristijärvi Keskus-Hiisijärvi (Ristijärvi)",...,.,.,1,.,.
+"88470  Kontiomäki (Paltamo)",.,...,.,.,8,.
+"88600  Sotkamo Keskus (Sotkamo)",1197,1659,1244,20,41,14
+"88610  Vuokatti (Sotkamo)",.,...,.,.,1,.
+"88620  Korholanmäki (Sotkamo)",.,.,.,.,.,.
+"88900  Kuhmo Keskus (Kuhmo)",771,753,...,13,20,7
+"89140  Kotila-Törmänmäki (Puolanka)",.,.,.,.,.,.
+"89200  Puolanka Keskus (Puolanka)",...,...,...,1,2,1
+"89400  Hyrynsalmi Keskus (Hyrynsalmi)",.,.,.,.,.,.
+"89600  Ämmänsaari (Suomussalmi)",623,807,...,9,12,3
+"89800  Suomussalmi Keskus (Suomussalmi)",.,.,.,.,.,.
+"90100  Oulu Keskus (Oulu)",3260,2719,2645,83,118,82
+"90120  Heinäpää (Oulu)",2901,2353,2493,69,97,54
+"90130  Raksila (Oulu)",3088,2633,2351,35,88,78
+"90140  Karjasilta (Oulu)",2749,2648,2877,18,48,21
+"90150  Höyhtyä (Oulu)",2340,1589,1687,23,48,39
+"90220  Kontinkangas (Oulu)",1184,749,559,74,60,73
+"90230  Värttö-Maikkula (Oulu)",...,2345,2601,5,24,22
+"90240  Iinatti (Oulu)",2244,1992,1680,8,21,14
+"90250  Kaukovainio (Oulu)",2405,1480,1297,48,59,49
+"90310  Madekoski (Oulu)",.,1744,1532,.,6,6
+"90400  Äimärautio (Oulu)",4021,3391,3119,14,28,19
+"90410  Kaakkuri (Oulu)",.,...,.,.,1,.
+"90420  Metsokangas (Oulu)",2763,2248,1977,33,42,36
+"90440  Kempele Keskus (Kempele)",2691,2502,2038,19,26,18
+"90450  Honkanen (Kempele)",.,...,...,.,2,4
+"90460  Oulunsalo Keskus (Oulu)",.,1758,1974,.,6,8
+"90480  Hailuoto (Hailuoto)",.,.,.,.,.,.
+"90500  Tuira (Oulu)",2476,2178,1908,81,108,80
+"90510  Hietasaari (Oulu)",2125,2967,2810,11,20,19
+"90520  Taskila-Toppila (Oulu)",3441,2775,2634,37,45,50
+"90530  Välivainio (Oulu)",2188,2158,1853,14,66,23
+"90540  Kuivasjärvi (Oulu)",3560,2861,2172,49,51,21
+"90550  Pyykösjärvi-Puolivälinkangas (Oulu)",1628,1130,1018,9,25,18
+"90560  Koskela-Oulu (Oulu)",1645,1086,1003,11,28,13
+"90570  Kaijonharju-Linnanmaa (Oulu)",3151,1644,1281,38,31,23
+"90580  Rajakylä (Oulu)",...,745,985,4,12,9
+"90620  Rusko-Heikinharju (Oulu)",.,.,.,.,.,.
+"90630  Korvensuora (Oulu)",...,2638,1976,5,9,23
+"90650  Haapalehto (Oulu)",1932,1754,1804,19,33,33
+"90670  Hiukkavaara (Oulu)",...,1898,2221,5,7,15
+"90800  Pateniemi (Oulu)",...,...,1424,1,6,11
+"90810  Kiviniemi (Oulu)",.,.,.,.,.,.
+"90820  Kello (Oulu)",.,.,.,.,.,.
+"90830  Haukipudas Keskus (Oulu)",...,...,...,2,8,4
+"90840  Haukipudas Asemanseutu (Oulu)",.,.,.,.,.,.
+"90850  Martinniemi (Oulu)",.,...,...,.,1,3
+"90900  Kiiminki Keskus (Oulu)",.,...,...,.,3,4
+"90910  Kontio (Oulu)",.,.,.,.,.,.
+"90940  Jääli (Oulu)",.,...,.,.,1,.
+"91100  Ii Keskus (Ii)",...,...,...,1,3,2
+"91200  Yli-Ii Keskus (Oulu)",.,.,.,.,.,.
+"91260  Pahkakoski-Räinä (Oulu)",.,.,.,.,.,.
+"91300  Ylikiiminki Keskus (Oulu)",.,.,.,.,.,.
+"91310  Arkala (Oulu)",.,.,.,.,.,.
+"91410  Jokirinne (Muhos)",.,.,.,.,.,.
+"91430  Leppiniemi (Muhos)",.,.,.,.,.,.
+"91500  Muhos Keskus (Muhos)",.,...,...,.,3,3
+"91600  Utajärvi Keskus (Utajärvi)",.,.,.,.,.,.
+"91670  Rokua (Utajärvi)",.,.,.,.,.,.
+"91700  Vaala Keskus-Oterma (Vaala)",...,.,...,2,.,2
+"91710  Jylhämä (Vaala)",.,.,.,.,.,.
+"91760  Säräisniemi (Vaala)",.,.,.,.,.,.
+"91780  Neittävä (Vaala)",.,.,.,.,.,.
+"91800  Tyrnävä (Tyrnävä)",...,.,...,1,.,1
+"91900  Liminka Keskus (Liminka)",.,...,...,.,2,2
+"91910  Tupos (Liminka)",.,.,.,.,.,.
+"91950  Temmes (Tyrnävä)",.,.,.,.,.,.
+"91980  Lumijoki (Lumijoki)",.,.,.,.,.,.
+"92100  Raahe Keskus (Raahe)",1423,1360,1489,19,35,27
+"92120  Ollinsaari-Mestauskallio (Raahe)",.,...,...,.,1,3
+"92130  Isoholmi-Antinkangas (Raahe)",.,...,...,.,5,6
+"92140  Pattijoki Keskus (Raahe)",.,.,.,.,.,.
+"92150  Kummatti-Junnilanmäki (Raahe)",.,.,.,.,.,.
+"92160  Saloinen (Raahe)",.,.,.,.,.,.
+"92320  Siikajoki Keskus (Siikajoki)",.,.,.,.,.,.
+"92350  Revonlahti (Siikajoki)",.,.,.,.,.,.
+"92400  Ruukki Keskus (Siikajoki)",.,.,.,.,.,.
+"92430  Paavola-Huumola (Siikajoki)",.,.,.,.,.,.
+"92450  Luohua (Siikajoki)",.,.,.,.,.,.
+"92500  Rantsila Keskus (Siikalatva)",.,.,.,.,.,.
+"92600  Pulkkila Keskus (Siikalatva)",.,.,.,.,.,.
+"92620  Piippola Keskus (Siikalatva)",.,.,.,.,.,.
+"92640  Leskelä (Siikalatva)",.,.,.,.,.,.
+"92650  Laakkola (Siikalatva)",.,.,.,.,.,.
+"92700  Kestilä (Siikalatva)",.,.,.,.,.,.
+"92930  Pyhäntä (Pyhäntä)",.,.,.,.,.,.
+"93100  Pudasjärvi Keskus (Pudasjärvi)",613,...,...,8,3,1
+"93280  Syöte (Pudasjärvi)",.,.,.,.,.,.
+"93400  Taivalkoski Keskus (Taivalkoski)",...,...,...,2,5,3
+"93600  Kuusamo (Kuusamo)",1532,1393,1323,22,54,17
+"93700  Kurkijärvi - Oijusluoma (Kuusamo)",.,.,.,.,.,.
+"93800  Muojärvi (Kuusamo)",.,.,.,.,.,.
+"93830  Rukatunturi (Kuusamo)",.,.,.,.,.,.
+"93900  Oulangan kansallispuisto (Kuusamo)",.,.,.,.,.,.
+"93999  Lososaari (Kuusamo)",.,.,.,.,.,.
+"94100  Kemi Keskus (Kemi)",905,920,888,57,145,57
+"94200  Torvinen-Vainio (Kemi)",...,...,...,1,23,17
+"94300  Pajusaari (Kemi)",.,...,...,.,5,2
+"94400  Keminmaa Keskus (Keminmaa)",.,...,611,.,4,6
+"94430  Kaakamo (Tornio)",.,.,.,.,.,.
+"94450  Lassila-Jokisuu (Keminmaa)",.,.,...,.,.,1
+"94500  Lautiosaari (Keminmaa)",...,...,...,1,1,3
+"94600  Ristikangas-Kivikko (Kemi)",.,.,.,.,.,.
+"94700  Takajärvi-Haukkari (Kemi)",594,419,605,13,24,17
+"94720  Peurasaari (Kemi)",...,...,.,3,2,.
+"94830  Pikku Berliini-Hepola (Kemi)",...,341,392,4,22,17
+"95100  Kuivaniemi Keskus (Ii)",.,.,.,.,.,.
+"95200  Simo Keskus (Simo)",.,.,.,.,.,.
+"95230  Maksniemi (Simo)",.,.,.,.,.,.
+"95300  Tervola Keskus (Tervola)",.,.,.,.,.,.
+"95400  Tornio Keskus (Tornio)",1844,1765,1604,27,45,38
+"95410  Kiviranta (Tornio)",...,...,...,1,2,3
+"95420  Miukki-Palosaari-Luotomäki (Tornio)",...,864,...,7,10,7
+"95430  Suensaari (Tornio)",1269,...,844,6,5,9
+"95450  Kirkonmäki (Tornio)",...,1099,.,2,8,.
+"95600  Ylitornio Keskus (Ylitornio)",.,.,.,.,.,.
+"95675  Meltosjärvi (Ylitornio)",.,.,.,.,.,.
+"95700  Pello Keskus (Pello)",...,...,...,4,14,5
+"95780  Sirkkakoski (Pello)",.,.,.,.,.,.
+"95800  Sieppijärvi-Taapajärvi (Kolari)",.,.,.,.,.,.
+"95900  Kolari Keskus (Kolari)",.,.,.,.,.,.
+"95930  Äkäsjoensuu (Kolari)",.,.,.,.,.,.
+"95970  Äkäslompolo (Kolari)",.,.,.,.,.,.
+"95980  Ylläsjärvi (Kolari)",.,.,.,.,.,.
+"96100  Rovaniemi Keskus (Rovaniemi)",2481,2379,2102,74,149,95
+"96190  Lapinrinne-Ahokangas (Rovaniemi)",...,...,1761,3,5,8
+"96200  Sahanperä-Ratantaus (Rovaniemi)",2179,2036,2014,25,42,46
+"96300  Niemelänkangas-Korvanniemi (Rovaniemi)",2646,2040,1621,45,50,24
+"96320  Teollisuuskylä (Rovaniemi)",.,.,.,.,.,.
+"96400  Pullinranta-Kiiruna (Rovaniemi)",...,2295,1680,2,8,7
+"96440  Ounasrinne (Rovaniemi)",818,852,...,6,6,3
+"96460  Pöykkölä (Rovaniemi)",.,.,...,.,.,1
+"96500  Korkalovaara (Rovaniemi)",...,722,716,2,24,32
+"96600  Koskenkylä (Rovaniemi)",.,.,.,.,.,.
+"96800  Ylikylä-Patosaari (Rovaniemi)",.,.,.,.,.,.
+"96900  Saarenkylä (Rovaniemi)",...,.,...,2,.,1
+"96910  Syväsenvaara (Rovaniemi)",.,...,...,.,1,4
+"96960  Someroharju (Rovaniemi)",.,.,.,.,.,.
+"97110  Rautionsaari (Rovaniemi)",.,.,.,.,.,.
+"97130  Hirvas (Rovaniemi)",.,.,.,.,.,.
+"97140  Muurola (Rovaniemi)",...,.,...,4,.,2
+"97160  Petäjäinen (Rovaniemi)",.,...,...,.,1,1
+"97280  Tapio (Rovaniemi)",.,.,.,.,.,.
+"97340  Meltaus-Jääskö-Perttaus (Rovaniemi)",.,.,.,.,.,.
+"97390  Kierinki (Sodankylä)",.,.,.,.,.,.
+"97615  Tennirova (Rovaniemi)",.,.,.,.,.,.
+"97635  Juuniemi (Rovaniemi)",.,.,.,.,.,.
+"97655  Autti (Rovaniemi)",.,.,.,.,.,.
+"97700  Ranua Keskus (Ranua)",.,.,.,.,.,.
+"97900  Posio Keskus (Posio)",.,.,...,.,.,1
+"98100  Kemijärvi Keskus (Kemijärvi)",...,809,...,3,6,4
+"98120  Särkikangas (Kemijärvi)",...,...,...,1,2,1
+"98230  Luusua-Karsimus (Kemijärvi)",.,.,.,.,.,.
+"98310  Karvakko (Kemijärvi)",.,.,.,.,.,.
+"98350  Tapionniemi (Kemijärvi)",.,.,.,.,.,.
+"98400  Isokylä-Ryti-Lehtola (Kemijärvi)",.,.,.,.,.,.
+"98440  Kallaanvaara (Kemijärvi)",.,.,.,.,.,.
+"98450  Kostamo (Kemijärvi)",.,.,.,.,.,.
+"98500  Pelkosenniemi Keskus (Pelkosenniemi)",.,.,.,.,.,.
+"98530  Pyhätunturi (Pelkosenniemi)",.,.,.,.,.,.
+"98600  Kursu (Salla)",.,.,.,.,.,.
+"98720  Suomutunturi (Kemijärvi)",.,.,.,.,.,.
+"98800  Savukoski Keskus-Värriö (Savukoski)",.,.,.,.,.,.
+"98830  Martti-Ruuvaoja (Savukoski)",.,.,.,.,.,.
+"98900  Salla Keskus (Salla)",...,...,...,3,3,1
+"99100  Kittilä Keskus (Kittilä)",.,...,.,.,2,.
+"99130  Sirkka-Rauhala (Kittilä)",.,.,.,.,.,.
+"99150  Tepasto (Kittilä)",.,.,.,.,.,.
+"99300  Muonio Keskus (Muonio)",.,.,.,.,.,.
+"99400  Enontekiö Keskus (Enontekiö)",.,.,.,.,.,.
+"99450  Palojoensuu-Kuttanen (Enontekiö)",.,.,.,.,.,.
+"99470  Karesuvanto (Enontekiö)",.,.,.,.,.,.
+"99490  Kilpisjärvi (Enontekiö)",.,.,.,.,.,.
+"99555  Luosto (Sodankylä)",.,.,.,.,.,.
+"99600  Sodankylä Keskus (Sodankylä)",...,794,981,3,17,7
+"99620  Kelujärvi (Sodankylä)",.,.,.,.,.,.
+"99645  Lokka (Sodankylä)",.,.,.,.,.,.
+"99660  Kersilö (Sodankylä)",.,.,.,.,.,.
+"99690  Vuotso (Sodankylä)",.,.,.,.,.,.
+"99710  Vaalajärvi (Sodankylä)",.,.,.,.,.,.
+"99800  Ivalo (Inari)",...,...,.,2,4,.
+"99830  Saariselkä (Inari)",.,.,.,.,.,.
+"99870  Inari Keskus-Lemmenjoki (Inari)",.,.,.,.,.,.
+"99910  Kaamanen-Partakko (Inari)",.,.,.,.,.,.
+"99930  Sevettijärvi-Näätämö (Inari)",.,.,.,.,.,.
+"99950  Karigasniemi (Utsjoki)",.,.,.,.,.,.
+"99980  Utsjoki Keskus (Utsjoki)",.,.,.,.,.,.
+"99990  Nuorgam (Utsjoki)",.,.,.,.,.,.
